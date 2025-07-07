@@ -1,0 +1,10 @@
+{
+    "name": "asus/restoran",
+    "description": "Restaurant Booking System",
+    "type": "project",
+    "require": {
+        "endroid/qrcode": "^4.8"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}

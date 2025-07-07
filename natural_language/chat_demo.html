@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Chat Demo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .chat-container {
+            display: flex;
+            flex: 1;
+            gap: 20px;
+        }
+        .chat-box {
+            flex: 2;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        .info-panel {
+            flex: 1;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            overflow-y: auto;
+        }
+        .chat-messages {
+            flex: 1;
+            padding: 15px;
+            overflow-y: auto;
+        }
+        .message {
+            margin-bottom: 15px;
+            display: flex;
+        }
+        .user-message {
+            justify-content: flex-end;
+        }
+        .bot-message {
+            justify-content: flex-start;
+        }
+        .message-content {
+            padding: 10px 15px;
+            border-radius: 18px;
+            max-width: 70%;
+        }
+        .user-message .message-content {
+            background-color: #0084ff;
+            color: white;
+        }
+        .bot-message .message-content {
+            background-color: #e9e9eb;
+            color: #333;
+        }
+        .chat-input {
+            display: flex;
+            padding: 10px;
+            border-top: 1px solid #e9e9eb;
+        }
+        .chat-input input {
+            flex: 1;
+            padding: 10px 15px;
+            border: 1px solid #ddd;
+            border-radius: 20px;
+            outline: none;
+        }
+        .chat-input button {
+            margin-left: 10px;
+            padding: 10px 20px;
+            background-color: #0084ff;
+            color: white;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+        }
+        .chat-input button:hover {
+            background-color: #0073e6;
+        }
+        .intent-tag {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 12px;
+            font-size: 12px;
+            margin-top: 5px;
+        }
+        .intent-opening_hours {
+            background-color: #ffcc80;
+        }
+        .intent-location {
+            background-color: #80cbc4;
+        }
+        .intent-menu {
+            background-color: #a5d6a7;
+        }
+        .intent-promotion {
+            background-color: #ef9a9a;
+        }
+        .intent-reservation {
+            background-color: #9fa8da;
+        }
+        .intent-facilities {
+            background-color: #ce93d8;
+        }
+        .intent-out_of_scope {
+            background-color: #ef5350;
+        }
+        .intent-unknown {
+            background-color: #b0bec5;
+        }
+        .intent-keyword_based {
+            background-color: #ffab91;
+        }
+        .intent-examples {
+            margin-top: 20px;
+        }
+        .intent-examples h3 {
+            margin-bottom: 10px;
+            font-size: 16px;
+        }
+        .example-list {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .example-list li {
+            cursor: pointer;
+            padding: 5px 0;
+            color: #0084ff;
+        }
+        .example-list li:hover {
+            text-decoration: underline;
+        }
+        .debug-info {
+            margin-top: 20px;
+            font-size: 12px;
+            color: #666;
+        }
+        .debug-info pre {
+            background-color: #f5f5f5;
+            padding: 10px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Restaurant Chat Demo</h1>
+            <p>Hỏi đáp về nhà hàng sử dụng NLP</p>
+        </div>
+        <div class="chat-container">
+            <div class="chat-box">
+                <div class="chat-messages" id="chat-messages">
+                    <div class="message bot-message">
+                        <div class="message-content">
+                            Xin chào! Tôi là trợ lý ảo của nhà hàng. Bạn có thể hỏi tôi về giờ mở cửa, địa chỉ, menu, khuyến mãi, đặt bàn hoặc các tiện ích của nhà hàng.
+                        </div>
+                    </div>
+                </div>
+                <div class="chat-input">
+                    <input type="text" id="message-input" placeholder="Nhập câu hỏi của bạn..." autocomplete="off">
+                    <button id="send-button">Gửi</button>
+                </div>
+            </div>
+            <div class="info-panel">
+                <h2>Thông tin</h2>
+                <p>Chatbot này sử dụng NLP để phân loại ý định người dùng thành các nhóm:</p>
+                <ul>
+                    <li><span class="intent-tag intent-opening_hours">Giờ mở cửa</span></li>
+                    <li><span class="intent-tag intent-location">Địa chỉ</span></li>
+                    <li><span class="intent-tag intent-menu">Thực đơn</span></li>
+                    <li><span class="intent-tag intent-promotion">Khuyến mãi</span></li>
+                    <li><span class="intent-tag intent-reservation">Đặt bàn</span></li>
+                    <li><span class="intent-tag intent-facilities">Tiện ích</span></li>
+                    <li><span class="intent-tag intent-out_of_scope">Ngoài phạm vi</span></li>
+                    <li><span class="intent-tag intent-unknown">Không xác định</span></li>
+                    <li><span class="intent-tag intent-keyword_based">Dựa trên từ khóa</span></li>
+                </ul>
+                
+                <div class="intent-examples">
+                    <h3>Các câu hỏi mẫu:</h3>
+                    <ul class="example-list">
+                        <li data-text="nhà hàng mở cửa mấy giờ?">Nhà hàng mở cửa mấy giờ?</li>
+                        <li data-text="địa chỉ nhà hàng ở đâu?">Địa chỉ nhà hàng ở đâu?</li>
+                        <li data-text="menu có những món gì?">Menu có những món gì?</li>
+                        <li data-text="nhà hàng có món chay không?">Nhà hàng có món chay không?</li>
+                        <li data-text="giá món ăn của nhà hàng">Giá món ăn của nhà hàng</li>
+                        <li data-text="có khuyến mãi gì không?">Có khuyến mãi gì không?</li>
+                        <li data-text="làm sao để đặt bàn?">Làm sao để đặt bàn?</li>
+                        <li data-text="nhà hàng có wifi không?">Nhà hàng có wifi không?</li>
+                        <li data-text="có chỗ đậu xe ô tô không?">Có chỗ đậu xe ô tô không?</li>
+                        <li data-text="chán">Chán (Kiểm tra xử lý từ ngữ không phù hợp)</li>
+                        <li data-text="hỏi chấm">Hỏi chấm (Kiểm tra xử lý câu vô nghĩa)</li>
+                    </ul>
+                </div>
+                
+                <div class="debug-info">
+                    <h3>Thông tin debug:</h3>
+                    <pre id="debug-info">Chưa có dữ liệu</pre>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const chatMessages = document.getElementById('chat-messages');
+            const messageInput = document.getElementById('message-input');
+            const sendButton = document.getElementById('send-button');
+            const debugInfo = document.getElementById('debug-info');
+            const exampleList = document.querySelectorAll('.example-list li');
+            
+            // Xử lý các câu hỏi mẫu
+            exampleList.forEach(item => {
+                item.addEventListener('click', function() {
+                    const text = this.getAttribute('data-text');
+                    messageInput.value = text;
+                    sendButton.click();
+                });
+            });
+            
+            // Hàm thêm tin nhắn vào khung chat
+            function addMessage(message, isUser = false) {
+                const messageElement = document.createElement('div');
+                messageElement.className = `message ${isUser ? 'user-message' : 'bot-message'}`;
+                
+                const messageContent = document.createElement('div');
+                messageContent.className = 'message-content';
+                
+                // Kiểm tra nếu tin nhắn có emoji và xử lý hiển thị đúng
+                messageContent.innerHTML = message;
+                
+                messageElement.appendChild(messageContent);
+                chatMessages.appendChild(messageElement);
+                
+                // Cuộn xuống dưới
+                chatMessages.scrollTop = chatMessages.scrollHeight;
+            }
+            
+            // Hàm thêm intent tag vào tin nhắn bot
+            function addIntentTag(intent) {
+                const lastMessage = chatMessages.lastElementChild;
+                if (lastMessage && lastMessage.classList.contains('bot-message')) {
+                    const messageContent = lastMessage.querySelector('.message-content');
+                    
+                    const intentTag = document.createElement('div');
+                    intentTag.className = `intent-tag intent-${intent}`;
+                    
+                    let intentText = 'Không xác định';
+                    switch(intent) {
+                        case 'opening_hours':
+                            intentText = 'Giờ mở cửa';
+                            break;
+                        case 'location':
+                            intentText = 'Địa chỉ';
+                            break;
+                        case 'menu':
+                            intentText = 'Thực đơn';
+                            break;
+                        case 'promotion':
+                            intentText = 'Khuyến mãi';
+                            break;
+                        case 'reservation':
+                            intentText = 'Đặt bàn';
+                            break;
+                        case 'facilities':
+                            intentText = 'Tiện ích';
+                            break;
+                        case 'out_of_scope':
+                            intentText = 'Ngoài phạm vi';
+                            break;
+                        case 'keyword_based':
+                            intentText = 'Dựa trên từ khóa';
+                            break;
+                        case 'unknown':
+                            intentText = 'Không xác định';
+                            break;
+                    }
+                    
+                    intentTag.textContent = intentText;
+                    messageContent.appendChild(intentTag);
+                }
+            }
+            
+            // Hàm gửi tin nhắn
+            function sendMessage() {
+                const message = messageInput.value.trim();
+                if (message) {
+                    // Thêm tin nhắn người dùng vào khung chat
+                    addMessage(message, true);
+                    
+                    // Gửi tin nhắn đến server
+                    fetch('../natural_language/nlp_chat_api.php', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({ message })
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        // Thêm phản hồi từ bot
+                        addMessage(data.message);
+                        
+                        // Thêm intent tag
+                        if (data.intent) {
+                            addIntentTag(data.intent);
+                        }
+                        
+                        // Hiển thị thông tin debug
+                        debugInfo.textContent = JSON.stringify(data, null, 2);
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        addMessage('Xin lỗi, đã xảy ra lỗi khi xử lý yêu cầu của bạn.');
+                    });
+                    
+                    // Xóa nội dung input
+                    messageInput.value = '';
+                }
+            }
+            
+            // Xử lý sự kiện click nút gửi
+            sendButton.addEventListener('click', sendMessage);
+            
+            // Xử lý sự kiện nhấn Enter
+            messageInput.addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    sendMessage();
+                }
+            });
+        });
+    </script>
+</body>
+</html> 

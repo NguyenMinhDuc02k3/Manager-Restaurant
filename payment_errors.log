@@ -1,0 +1,988 @@
+[16-May-2025 16:41:06 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[16-May-2025 21:41:06 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[16-May-2025 21:41:06 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17500000&vnp_Command=pay&vnp_CreateDate=20250516214106&vnp_CurrCode=VND&vnp_ExpireDate=20250516221106&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+28&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=28_1747406466&vnp_Version=2.1.0&vnp_SecureHash=ebc6468a49659745b09d91293405df7ce0b8fda6f0a636e336a445cd24e917c0a9a2deb28268d93563bc6f343c24fbcb1138e5f98d2157b3ea4a9127881ad571
+[16-May-2025 21:41:06 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[16-May-2025 16:42:19 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[16-May-2025 21:42:19 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[16-May-2025 21:42:19 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17500000&vnp_Command=pay&vnp_CreateDate=20250516214219&vnp_CurrCode=VND&vnp_ExpireDate=20250516221219&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+27&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=27_1747406539&vnp_Version=2.1.0&vnp_SecureHash=7a43467886a397b1952ad2c0ffb84087e168903dce65d49d425c5ef3808dbeabadb1e367199d1d7fd99f80fcb2a04bb0b73d89a9984dadd14a2fe3a2882d4ee6
+[16-May-2025 21:42:19 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[16-May-2025 16:49:06 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[16-May-2025 21:49:06 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[16-May-2025 21:49:06 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=19000000&vnp_Command=pay&vnp_CreateDate=20250516214906&vnp_CurrCode=VND&vnp_ExpireDate=20250516221906&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+31&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=31_1747406946&vnp_Version=2.1.0&vnp_SecureHash=4a1052894d067f29331b6d46279373ac5b69d596815b265bc39bfcd3d66865eb327c9963e52f65f4fb7ff59903b163bcd077e84e0a514448022a697eb36b8db4
+[16-May-2025 21:49:06 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[16-May-2025 16:54:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[16-May-2025 21:54:09 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[16-May-2025 21:54:09 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=26000000&vnp_Command=pay&vnp_CreateDate=20250516215409&vnp_CurrCode=VND&vnp_ExpireDate=20250516222409&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+32&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=32_1747407249&vnp_Version=2.1.0&vnp_SecureHash=11e631979fe9227299aa2f2b55542b079cb78ecc7d771ed286932793ce812725b3402f1b976405e9743f0190ca102fa46600369d74a83f2554b69d536194ddc5
+[16-May-2025 21:54:09 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 06:41:39 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 11:41:39 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 11:41:39 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=19000000&vnp_Command=pay&vnp_CreateDate=20250517114139&vnp_CurrCode=VND&vnp_ExpireDate=20250517121139&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+33&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=33_1747456899&vnp_Version=2.1.0&vnp_SecureHash=71672f99ee82f272da91d7ba901f5c5032172ce3e08018c1e86b6db6221f1552efb1d384605f7924960c888db2ea99be0f94894c5671b9993854219e90066983
+[17-May-2025 11:41:39 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 06:42:03 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 11:42:03 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 11:42:03 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=19000000&vnp_Command=pay&vnp_CreateDate=20250517114203&vnp_CurrCode=VND&vnp_ExpireDate=20250517121203&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+33&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=33_1747456923&vnp_Version=2.1.0&vnp_SecureHash=ab8ee033afa797e97f0a402334759b0e0aed43b9bc9f4d012790d72b0a1275f00f9d9543aa77eec60c5b64183b2a2da5f06a64906b463a8fc92899b1459d31ae
+[17-May-2025 11:42:03 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 06:54:23 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 11:54:23 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 11:54:23 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=19000000&vnp_Command=pay&vnp_CreateDate=20250517115423&vnp_CurrCode=VND&vnp_ExpireDate=20250517122423&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+33&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=33_1747457663&vnp_Version=2.1.0&vnp_SecureHash=ffe4dcbf73901887fd24e20a4cc220031f3e5145e9d854365337723ea9bd231497eba844288d2f16cc3a43b61d9521e8b20e936f5d24f9ddb0c6360766629095
+[17-May-2025 11:54:24 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 06:54:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 11:54:40 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 11:54:40 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=19000000&vnp_Command=pay&vnp_CreateDate=20250517115440&vnp_CurrCode=VND&vnp_ExpireDate=20250517122440&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+33&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=33_1747457680&vnp_Version=2.1.0&vnp_SecureHash=bb29f06a96bc8226e9264aff257250792032297171e1d6e5ae6c11fde650453c1275970e2a6240125d209cf6bfcf54893d16083f1dd538f0792067ab97d932ee
+[17-May-2025 11:54:40 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 06:58:04 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 11:58:04 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 11:58:04 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=21000000&vnp_Command=pay&vnp_CreateDate=20250517115804&vnp_CurrCode=VND&vnp_ExpireDate=20250517122804&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+34&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=34_1747457884&vnp_Version=2.1.0&vnp_SecureHash=88372728766f1a86a1dbe182b7661f89896a5802845b14e0960158cd8337fadce2a4054c5d8867a86f414a638618e0470c11c363fad6be20527854b9561c2042
+[17-May-2025 11:58:04 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 06:59:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 11:59:47 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 11:59:47 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=21000000&vnp_Command=pay&vnp_CreateDate=20250517115947&vnp_CurrCode=VND&vnp_ExpireDate=20250517122947&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+34&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=34_1747457987&vnp_Version=2.1.0&vnp_SecureHash=b16e0ffe7429d330365e46135843721023da68b613cf7409ae4bcc28934f91b0c231924c3bf6d6c525f38a6468a22e190f742e2f63dfa5dad98734210f405ad0
+[17-May-2025 11:59:47 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:01:27 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:01:27 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:01:27 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=21000000&vnp_Command=pay&vnp_CreateDate=20250517120127&vnp_CurrCode=VND&vnp_ExpireDate=20250517123127&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+34&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=34_1747458087&vnp_Version=2.1.0&vnp_SecureHash=c0e996899c438d6c87467c01baf181ef83b5d1b094cc229ac91c57a2b4f2d8700eacb9712ca62f65bd5e64a23a2a9ec55f2d24cd14e075739dbc0c1e3b196c31
+[17-May-2025 12:01:27 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:08:48 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:08:48 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:08:48 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=21000000&vnp_Command=pay&vnp_CreateDate=20250517120848&vnp_CurrCode=VND&vnp_ExpireDate=20250517123848&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+34&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=34_1747458528&vnp_Version=2.1.0&vnp_SecureHash=5b6e14fd68786a12b95b428171fdca86cc0440ad7500f41b1d761fef42d4a8b70f0869c1aef5cf070f9f5cdba5736c56bb462f22a5c194c719b25cab6bbe800d
+[17-May-2025 12:08:48 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:10:03 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:10:03 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:10:03 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=21000000&vnp_Command=pay&vnp_CreateDate=20250517121003&vnp_CurrCode=VND&vnp_ExpireDate=20250517124003&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+34&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=34_1747458603&vnp_Version=2.1.0&vnp_SecureHash=8bdcec1799c1a4347031e3d7bdbc7999909557d985cc97fc4c73c3e21cb8abe467c4d17a66a1f1150e46426cf94747a08c8c95c90249c8d8fa010e44fdce9a36
+[17-May-2025 12:10:03 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:11:14 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:11:14 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:11:14 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=21000000&vnp_Command=pay&vnp_CreateDate=20250517121114&vnp_CurrCode=VND&vnp_ExpireDate=20250517124114&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+34&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=34_1747458674&vnp_Version=2.1.0&vnp_SecureHash=86071ead407b4401beb5d6acad98bd87517dfdfde2d27504347385350838352131a0e04d6b5e8e567c8c088cb7b7a9a9599196ab7ba0b772035626fb2e7dee36
+[17-May-2025 12:11:14 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:12:17 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:12:17 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:12:17 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=21000000&vnp_Command=pay&vnp_CreateDate=20250517121217&vnp_CurrCode=VND&vnp_ExpireDate=20250517124217&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+34&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=34_1747458737&vnp_Version=2.1.0&vnp_SecureHash=30cd33b7b5d9f4f2180a774e59799ec9054dd4cea69be0cdbb0abe1199f6c42bd81d3ab41e4d02e1d2cd9ca666c8eb3b12f188a31636bacf256bf7b918c46427
+[17-May-2025 12:12:17 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:12:39 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:12:39 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:12:39 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=21000000&vnp_Command=pay&vnp_CreateDate=20250517121239&vnp_CurrCode=VND&vnp_ExpireDate=20250517124239&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+34&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=34_1747458759&vnp_Version=2.1.0&vnp_SecureHash=9897c39ff28bab7a5cf15ff67905c1f86dcfc7f46e6db58cb0dcfb01a525b9c4d719912863e48f3acd216694015936b023b945410acbd926ec3114e75a08030d
+[17-May-2025 12:12:39 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:15:41 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:15:41 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:15:41 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=19000000&vnp_Command=pay&vnp_CreateDate=20250517121541&vnp_CurrCode=VND&vnp_ExpireDate=20250517124541&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+33&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=33_1747458941&vnp_Version=2.1.0&vnp_SecureHash=0f32a8a4c08de0834b81177c70cdff28e4ef2687f54a0d8d241248eae709574947ba76dd0f37fd6b6e83c1fa5fdbb96c92d6756e8ca0cdf02a3cc2bc47ea5511
+[17-May-2025 12:15:41 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:16:59 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:16:59 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:16:59 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=19000000&vnp_Command=pay&vnp_CreateDate=20250517121659&vnp_CurrCode=VND&vnp_ExpireDate=20250517124659&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+33&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=33_1747459019&vnp_Version=2.1.0&vnp_SecureHash=1e1985b1ae2d2e71098ab4bd78dd972b0f95e5553737346c4e2df7befcc4b352b1d534f65880905f8b8c23086392523242fcb1045d7d311bf22c12b13f137b5e
+[17-May-2025 12:16:59 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:22:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:22:56 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:22:56 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=19000000&vnp_Command=pay&vnp_CreateDate=20250517122256&vnp_CurrCode=VND&vnp_ExpireDate=20250517125256&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+33&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=33_1747459376&vnp_Version=2.1.0&vnp_SecureHash=c7e3af95a8669ab9bf63999bcea5b45faaabd4379fefee9917a5276fb9ee73c759e2fc19ffd3878d0924aa89bee6d84156adbde4b6fb15db7216d97e8bbbd170
+[17-May-2025 12:22:56 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:23:10 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:23:10 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:23:10 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=19000000&vnp_Command=pay&vnp_CreateDate=20250517122310&vnp_CurrCode=VND&vnp_ExpireDate=20250517125310&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+33&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=33_1747459390&vnp_Version=2.1.0&vnp_SecureHash=9ddb3cc2dbe2a862ff6f5ac98b75bfcab11ed3f78f740edcc2c456fe8424c79313cbf2fd75f2ed11aae16c5c2add3a4237dfac162677ae08de6a12fb425cd363
+[17-May-2025 12:23:10 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:23:37 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:23:37 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:23:37 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=19000000&vnp_Command=pay&vnp_CreateDate=20250517122337&vnp_CurrCode=VND&vnp_ExpireDate=20250517125337&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+33&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=33_1747459417&vnp_Version=2.1.0&vnp_SecureHash=fcf9c802ce06366c7568803706582a75502aba53a50252586b4d6195ab383aedef635aeefe632836a7feeeade88e4e0c68364a37d78f52b642176066d7086e51
+[17-May-2025 12:23:38 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:28:29 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:28:30 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:28:30 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=19000000&vnp_Command=pay&vnp_CreateDate=20250517122830&vnp_CurrCode=VND&vnp_ExpireDate=20250517125830&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+33&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=33_1747459710&vnp_Version=2.1.0&vnp_SecureHash=30f376245c0682a3602386821820ff12d6dac63960c3e6dc8ce25769fc5aaa8715e2bd97fb83562925dbad1b212143fcd9e0c94d389757a67dfc076be58e90b6
+[17-May-2025 12:28:30 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:28:52 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:28:52 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:28:52 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=19000000&vnp_Command=pay&vnp_CreateDate=20250517122852&vnp_CurrCode=VND&vnp_ExpireDate=20250517125852&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+33&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=33_1747459732&vnp_Version=2.1.0&vnp_SecureHash=2081bcd4e2320977978ba8d62c65cc7d87060bfb1c1e280a70d7a86f388ce133b63987e762c1c066c2e1fca432900b6a6b4f9429bb3f0c43aea1ad3890d5b82f
+[17-May-2025 12:28:52 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:31:10 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:31:10 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:31:10 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=37500000&vnp_Command=pay&vnp_CreateDate=20250517123110&vnp_CurrCode=VND&vnp_ExpireDate=20250517130110&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+35&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=35_1747459870&vnp_Version=2.1.0&vnp_SecureHash=04382e5094968026bb58fc7810440c5177c69d871a653a978cd55587875c032b1eb3c60af0fd3b77bc0efdad7d221f53098acf016effe31ec28df123d29529ac
+[17-May-2025 12:31:10 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:31:45 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:31:45 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:31:45 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=37500000&vnp_Command=pay&vnp_CreateDate=20250517123145&vnp_CurrCode=VND&vnp_ExpireDate=20250517130145&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+35&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=35_1747459905&vnp_Version=2.1.0&vnp_SecureHash=da5a7b3591b4de780a3450399a90b5a9342abf2ec852ce28130026224777a0ec2d6ac174cf9696bdf0c9eb918456916bf931646659948cbc6bd1f45d0e8bd866
+[17-May-2025 12:31:45 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:33:23 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:33:23 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:33:23 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=37500000&vnp_Command=pay&vnp_CreateDate=20250517123323&vnp_CurrCode=VND&vnp_ExpireDate=20250517130323&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+35&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=35_1747460003&vnp_Version=2.1.0&vnp_SecureHash=c137148b93cef91474a31f4d4e765613570ebd6fa8b5835eaf3b539d8c3350caa6fa99408a7f83d8b7fb6eb696d77b679c7f915b725a070086228a17331cb332
+[17-May-2025 12:33:23 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:34:29 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:34:29 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:34:29 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=37500000&vnp_Command=pay&vnp_CreateDate=20250517123429&vnp_CurrCode=VND&vnp_ExpireDate=20250517130429&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+35&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=35_1747460069&vnp_Version=2.1.0&vnp_SecureHash=64a2ff6cb210af13807de625a8dc5728164e2300bb866ec3b4dbbee5de7f41614afa36246939e120fe6a5da6eb92125e9747d98f7537046e7b733dc6b1997262
+[17-May-2025 12:34:29 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:40:33 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:40:33 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:40:33 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=37500000&vnp_Command=pay&vnp_CreateDate=20250517124033&vnp_CurrCode=VND&vnp_ExpireDate=20250517131033&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+35&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=35_1747460433&vnp_Version=2.1.0&vnp_SecureHash=5acd147b7150f92a921201aa856fde6619612abf8dc3324d4e1b7eb14861a7f12792750c5a445194c833102f7a3e57f6a8a4c636e478e8cfd09effa3e8f7b90d
+[17-May-2025 12:40:33 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:41:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:41:40 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:41:40 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=37500000&vnp_Command=pay&vnp_CreateDate=20250517124140&vnp_CurrCode=VND&vnp_ExpireDate=20250517131140&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+35&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=35_1747460500&vnp_Version=2.1.0&vnp_SecureHash=49305504ec90385d007f589ff8257ed9a53c1e5c161f515b7aad3ad2ac069fcabfcb95cbf68ed8d3675f9d2db5f22d158d8e6f187682c326745276cb7bd48844
+[17-May-2025 12:41:40 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:43:06 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:43:06 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:43:06 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=37500000&vnp_Command=pay&vnp_CreateDate=20250517124306&vnp_CurrCode=VND&vnp_ExpireDate=20250517131306&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+35&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=35_1747460586&vnp_Version=2.1.0&vnp_SecureHash=7ee693cb0cb459fce18a85979f7be88c66ef888856363dac2d4e53e0653433436656c256a79911c0b06f44ea1c643c7fd4e2437f3ff517a74a13520a137c5cd9
+[17-May-2025 12:43:06 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:43:13 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:43:13 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:43:13 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=37500000&vnp_Command=pay&vnp_CreateDate=20250517124313&vnp_CurrCode=VND&vnp_ExpireDate=20250517131313&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+35&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=35_1747460593&vnp_Version=2.1.0&vnp_SecureHash=f8f25fe63dbae006dee40501d5a7afc1063c28e05ba8ea34edb652916fe4f64b0a38eff81c16a0741ba81e3a3666d248a7bc6fdb7636b7077b321b69775a6f97
+[17-May-2025 12:43:13 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:43:21 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:43:21 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:43:21 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=37500000&vnp_Command=pay&vnp_CreateDate=20250517124321&vnp_CurrCode=VND&vnp_ExpireDate=20250517131321&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+35&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=35_1747460601&vnp_Version=2.1.0&vnp_SecureHash=903de031d4521ea07ce2517b110168aa84001ac1ec895f0e6cd7f6b4eea95f9c860685324037ed879d06cd47a80fafb3775ba88ee88c3f88c37a96612ff22ef7
+[17-May-2025 12:43:21 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:43:33 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:43:33 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:43:33 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=37500000&vnp_Command=pay&vnp_CreateDate=20250517124333&vnp_CurrCode=VND&vnp_ExpireDate=20250517131333&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+35&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=35_1747460613&vnp_Version=2.1.0&vnp_SecureHash=c4a11163c1e4c13f834bd2954e4d30667392c9786060c281bf601d6a3e15cbb0ca5d09edb64e0f092869577fe110635a8f38704d0a288427c5ef2705a485c0c0
+[17-May-2025 12:43:33 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:45:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:45:22 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:45:22 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=37500000&vnp_Command=pay&vnp_CreateDate=20250517124522&vnp_CurrCode=VND&vnp_ExpireDate=20250517131522&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+35&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=35_1747460722&vnp_Version=2.1.0&vnp_SecureHash=ad0609efdf662ad0fc5b94ba8d9b924486959e1f48622a3f83c2a40da7eb33bace7836ac14a8370971279a01b8f65f0c1a97f7b8bb0110880fa11f2e6525977c
+[17-May-2025 12:45:23 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:45:28 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 13
+[17-May-2025 12:45:28 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:45:28 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=37500000&vnp_Command=pay&vnp_CreateDate=20250517124528&vnp_CurrCode=VND&vnp_ExpireDate=20250517131528&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+35&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=35_1747460728&vnp_Version=2.1.0&vnp_SecureHash=30e26c56244feee259b2893e3de2f41b3c109a82f4263726b7137307caf20ef08436c56414269d212e8264f3beaefdc00b56bcc510966b6763e99cc46d9472bf
+[17-May-2025 12:45:28 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:52:01 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 12:52:01 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:52:01 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=37500000&vnp_Command=pay&vnp_CreateDate=20250517125201&vnp_CurrCode=VND&vnp_ExpireDate=20250517132201&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+35&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=35_1747461121&vnp_Version=2.1.0&vnp_SecureHash=7c1e69247c400ef9f73ad430cc187c83324730354a10e50c0fd81e4a64929e43b50851c1bf399a4d6e24548d1e3fdfad90bee41d522f9d5b72f44ed1b8f9f2e3
+[17-May-2025 12:52:01 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:52:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 12:52:08 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:52:08 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=37500000&vnp_Command=pay&vnp_CreateDate=20250517125208&vnp_CurrCode=VND&vnp_ExpireDate=20250517132208&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+35&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=35_1747461128&vnp_Version=2.1.0&vnp_SecureHash=e670a8a80fe95e31fee8103714eba975a1509b83471b25f9af2840300918fc34e77147b7748b93e76a67002d1ccc56efac4fad5249d216b7e45df9ec5612aad4
+[17-May-2025 12:52:08 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:55:29 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 12:55:29 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:55:29 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17500000&vnp_Command=pay&vnp_CreateDate=20250517125529&vnp_CurrCode=VND&vnp_ExpireDate=20250517132529&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+36&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=36_1747461329&vnp_Version=2.1.0&vnp_SecureHash=9620ff83de78d55f934dedb67fcf09c8b8fdda469e3a3dbc07c90eb56d913eac070e32696b49f0f7163e14db287dbf5c0ba8efa51a78cc0c35acee648df2d773
+[17-May-2025 12:55:29 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:55:33 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 12:55:33 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:55:33 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17500000&vnp_Command=pay&vnp_CreateDate=20250517125533&vnp_CurrCode=VND&vnp_ExpireDate=20250517132533&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+36&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=36_1747461333&vnp_Version=2.1.0&vnp_SecureHash=42086213d3877826cf5fc97f58b1ade9025ac59bb1c1c31b396c7026f7ec90773b20ce99a42bf9005faeb259aa86f1b0c377cc650a8eed884d584fe9f31d6a18
+[17-May-2025 12:55:33 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 07:56:01 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 12:56:01 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 12:56:01 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17500000&vnp_Command=pay&vnp_CreateDate=20250517125601&vnp_CurrCode=VND&vnp_ExpireDate=20250517132601&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+36&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=36_1747461361&vnp_Version=2.1.0&vnp_SecureHash=09d983df8b389ecf42a57ff42d27beac27ab564bd5d11de190279ed3e99104cc78eb703cfc03c319786dbdcc071b5ab96f3ee124c9a02da7991de6c22d54cfb1
+[17-May-2025 12:56:01 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 08:02:02 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 13:02:02 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 13:02:02 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17500000&vnp_Command=pay&vnp_CreateDate=20250517130202&vnp_CurrCode=VND&vnp_ExpireDate=20250517133202&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+36&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=36_1747461722&vnp_Version=2.1.0&vnp_SecureHash=ac2b9c322c07534afe914b71416de019e177ac84e411e4dfebb37b6f3a83fb48e310c7eab37323eb0115c548f16d1df99599e0bd7a4e460f1e3cc0d81666f691
+[17-May-2025 13:02:02 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 08:02:07 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 08:02:07 Europe/Berlin] Cash payment form submitted: Array
+(
+    [amount] => 175000
+    [received] => 500000
+    [cash_payment] => 1
+)
+
+[17-May-2025 08:02:07 Europe/Berlin] Processing cash payment for order #36 with amount 175000
+[17-May-2025 08:02:07 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[17-May-2025 08:02:07 Europe/Berlin] Starting cash payment process for order #36 with amount 175000
+[17-May-2025 08:02:07 Europe/Berlin] Database connection verified successfully
+[17-May-2025 08:02:07 Europe/Berlin] Beginning database transaction
+[17-May-2025 08:02:07 Europe/Berlin] Transaction started successfully
+[17-May-2025 08:02:07 Europe/Berlin] Found order with customer ID: 20
+[17-May-2025 08:02:07 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[17-May-2025 08:02:07 Europe/Berlin] savePaymentInfo: Saving payment for order #36 with amount 175000
+[17-May-2025 08:02:07 Europe/Berlin] savePaymentInfo: Successfully saved payment info
+[17-May-2025 08:02:07 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'idNV' in 'field list'
+[17-May-2025 08:02:07 Europe/Berlin] Failed to create invoice for order #36
+[17-May-2025 08:02:07 Europe/Berlin] Rolling back transaction
+[17-May-2025 08:02:07 Europe/Berlin] Transaction rolled back successfully
+[17-May-2025 08:02:07 Europe/Berlin] Payment error: Không thể tạo hóa đơn
+[17-May-2025 08:02:07 Europe/Berlin] Payment error: Lỗi: Không thể tạo hóa đơn
+[17-May-2025 08:02:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 13:02:09 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 13:02:09 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17500000&vnp_Command=pay&vnp_CreateDate=20250517130209&vnp_CurrCode=VND&vnp_ExpireDate=20250517133209&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+36&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=36_1747461729&vnp_Version=2.1.0&vnp_SecureHash=3017ab8e3605ba4548989daf3d01feabbdeaa71cbc8b457e53cd53dde3441f60e05925620e5b6d65e0d66db438da6a00fd07e04f83b93790c11309eb4a48dfa8
+[17-May-2025 13:02:09 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 08:03:15 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 13:03:15 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 13:03:15 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17500000&vnp_Command=pay&vnp_CreateDate=20250517130315&vnp_CurrCode=VND&vnp_ExpireDate=20250517133315&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+37&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=37_1747461795&vnp_Version=2.1.0&vnp_SecureHash=1562607553c12fa9608c46487358f9eb1f70b60f508f9c310032f87688c588502d2fdc9d235460893cba723e1eaaf995edb73b7b026c91e574175a3806d4e001
+[17-May-2025 13:03:15 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 08:03:21 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 08:03:21 Europe/Berlin] Cash payment form submitted: Array
+(
+    [amount] => 175000
+    [received] => 200000
+    [cash_payment] => 1
+)
+
+[17-May-2025 08:03:21 Europe/Berlin] Processing cash payment for order #37 with amount 175000
+[17-May-2025 08:03:21 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[17-May-2025 08:03:21 Europe/Berlin] Starting cash payment process for order #37 with amount 175000
+[17-May-2025 08:03:21 Europe/Berlin] Database connection verified successfully
+[17-May-2025 08:03:21 Europe/Berlin] Beginning database transaction
+[17-May-2025 08:03:21 Europe/Berlin] Transaction started successfully
+[17-May-2025 08:03:21 Europe/Berlin] Found order with customer ID: 6
+[17-May-2025 08:03:21 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[17-May-2025 08:03:21 Europe/Berlin] savePaymentInfo: Saving payment for order #37 with amount 175000
+[17-May-2025 08:03:21 Europe/Berlin] savePaymentInfo: Successfully saved payment info
+[17-May-2025 08:03:21 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'idNV' in 'field list'
+[17-May-2025 08:03:21 Europe/Berlin] Failed to create invoice for order #37
+[17-May-2025 08:03:21 Europe/Berlin] Rolling back transaction
+[17-May-2025 08:03:21 Europe/Berlin] Transaction rolled back successfully
+[17-May-2025 08:03:21 Europe/Berlin] Payment error: Không thể tạo hóa đơn
+[17-May-2025 08:03:21 Europe/Berlin] Payment error: Lỗi: Không thể tạo hóa đơn
+[17-May-2025 08:03:36 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 13:03:36 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 13:03:36 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17500000&vnp_Command=pay&vnp_CreateDate=20250517130336&vnp_CurrCode=VND&vnp_ExpireDate=20250517133336&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+37&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=37_1747461816&vnp_Version=2.1.0&vnp_SecureHash=dfa15a7781221caef42e4c99db62f0270465afaa02ff6dba63f801a4ace2f8115520ced2c29ab3734581a1b3a3c61a12357cc447aed3f1b879ef9573908f31b5
+[17-May-2025 13:03:36 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 08:12:00 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 13:12:00 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 13:12:00 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17500000&vnp_Command=pay&vnp_CreateDate=20250517131200&vnp_CurrCode=VND&vnp_ExpireDate=20250517134200&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+37&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=37_1747462320&vnp_Version=2.1.0&vnp_SecureHash=9735d4d87bb9c9a79972140a4aec664cbeeaef4d3c0741e161d06ff6059402a9a98e7fd949eca9ed722735d6be24dc831625638cfe3edd0c446992a7c81b7474
+[17-May-2025 13:12:00 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 08:12:05 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 08:12:05 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 37
+    [amount] => 175000
+    [received] => 500000
+    [cash_payment] => 1
+)
+
+[17-May-2025 08:12:05 Europe/Berlin] Processing cash payment for order #37 with amount 175000
+[17-May-2025 08:12:05 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[17-May-2025 08:12:05 Europe/Berlin] Starting cash payment process for order #37 with amount 175000
+[17-May-2025 08:12:05 Europe/Berlin] Database connection verified successfully
+[17-May-2025 08:12:05 Europe/Berlin] Beginning database transaction
+[17-May-2025 08:12:05 Europe/Berlin] Transaction started successfully
+[17-May-2025 08:12:05 Europe/Berlin] Found order with customer ID: 6
+[17-May-2025 08:12:05 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[17-May-2025 08:12:05 Europe/Berlin] savePaymentInfo: Saving payment for order #37 with amount 175000
+[17-May-2025 08:12:05 Europe/Berlin] savePaymentInfo: Successfully saved payment info
+[17-May-2025 08:12:05 Europe/Berlin] createInvoice: Checking for idNV column. Exists: No
+[17-May-2025 08:12:05 Europe/Berlin] createInvoice: Using SQL without idNV column
+[17-May-2025 08:12:05 Europe/Berlin] Successfully created invoice #36 for order #37
+[17-May-2025 08:12:05 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[17-May-2025 08:12:05 Europe/Berlin] Committing transaction
+[17-May-2025 08:12:05 Europe/Berlin] Transaction committed successfully
+[17-May-2025 08:12:05 Europe/Berlin] Transaction committed successfully for cash payment of order #37
+[17-May-2025 08:12:05 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\layout\header.php:76) in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 114
+[17-May-2025 08:15:58 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 13:15:58 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 13:15:58 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=19000000&vnp_Command=pay&vnp_CreateDate=20250517131558&vnp_CurrCode=VND&vnp_ExpireDate=20250517134558&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+38&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=38_1747462558&vnp_Version=2.1.0&vnp_SecureHash=ebb9ac8f79a66b7a171f7e7f55c2f5234927844759b58c97086fb39586056412b0565fa5b832171098c00ecdfbf770eb5e52742ebfb6f7d653a6bd35ecd61664
+[17-May-2025 13:15:58 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 08:16:03 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 08:16:03 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 38
+    [amount] => 190000
+    [received] => 500000
+    [cash_payment] => 1
+)
+
+[17-May-2025 08:16:03 Europe/Berlin] Processing cash payment for order #38 with amount 190000
+[17-May-2025 08:16:03 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[17-May-2025 08:16:03 Europe/Berlin] Starting cash payment process for order #38 with amount 190000
+[17-May-2025 08:16:03 Europe/Berlin] Database connection verified successfully
+[17-May-2025 08:16:03 Europe/Berlin] Beginning database transaction
+[17-May-2025 08:16:03 Europe/Berlin] Transaction started successfully
+[17-May-2025 08:16:03 Europe/Berlin] Found order with customer ID: 6
+[17-May-2025 08:16:03 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[17-May-2025 08:16:03 Europe/Berlin] savePaymentInfo: Saving payment for order #38 with amount 190000
+[17-May-2025 08:16:03 Europe/Berlin] savePaymentInfo: Successfully saved payment info
+[17-May-2025 08:16:03 Europe/Berlin] createInvoice: Checking for idNV column. Exists: No
+[17-May-2025 08:16:03 Europe/Berlin] createInvoice: Using SQL without idNV column
+[17-May-2025 08:16:03 Europe/Berlin] Successfully created invoice #37 for order #38
+[17-May-2025 08:16:03 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[17-May-2025 08:16:03 Europe/Berlin] Committing transaction
+[17-May-2025 08:16:03 Europe/Berlin] Transaction committed successfully
+[17-May-2025 08:16:03 Europe/Berlin] Transaction committed successfully for cash payment of order #38
+[17-May-2025 08:16:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 13:16:56 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 13:16:56 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=19000000&vnp_Command=pay&vnp_CreateDate=20250517131656&vnp_CurrCode=VND&vnp_ExpireDate=20250517134656&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+39&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=39_1747462616&vnp_Version=2.1.0&vnp_SecureHash=ccfeb4a4e2b47c12d1e5b2a323fc354c942915059ef91203a86d1d68a5736903db03ff33a8b37ee845b494ec5fa78acafbb71d4efd89a55f38709c45b78a7e6b
+[17-May-2025 13:16:56 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 08:17:05 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 08:17:05 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 39
+    [amount] => 190000
+    [received] => 200000
+    [cash_payment] => 1
+)
+
+[17-May-2025 08:17:05 Europe/Berlin] Processing cash payment for order #39 with amount 190000
+[17-May-2025 08:17:05 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[17-May-2025 08:17:05 Europe/Berlin] Starting cash payment process for order #39 with amount 190000
+[17-May-2025 08:17:05 Europe/Berlin] Database connection verified successfully
+[17-May-2025 08:17:05 Europe/Berlin] Beginning database transaction
+[17-May-2025 08:17:05 Europe/Berlin] Transaction started successfully
+[17-May-2025 08:17:05 Europe/Berlin] Found order with customer ID: 20
+[17-May-2025 08:17:05 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[17-May-2025 08:17:05 Europe/Berlin] savePaymentInfo: Saving payment for order #39 with amount 190000
+[17-May-2025 08:17:05 Europe/Berlin] savePaymentInfo: Successfully saved payment info
+[17-May-2025 08:17:05 Europe/Berlin] createInvoice: Checking for idNV column. Exists: No
+[17-May-2025 08:17:05 Europe/Berlin] createInvoice: Using SQL without idNV column
+[17-May-2025 08:17:05 Europe/Berlin] Successfully created invoice #38 for order #39
+[17-May-2025 08:17:05 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[17-May-2025 08:17:05 Europe/Berlin] Committing transaction
+[17-May-2025 08:17:05 Europe/Berlin] Transaction committed successfully
+[17-May-2025 08:17:05 Europe/Berlin] Transaction committed successfully for cash payment of order #39
+[17-May-2025 08:22:24 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 13:22:25 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 13:22:25 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=30000000&vnp_Command=pay&vnp_CreateDate=20250517132225&vnp_CurrCode=VND&vnp_ExpireDate=20250517135225&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+40&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=40_1747462945&vnp_Version=2.1.0&vnp_SecureHash=4bd83ca50c7604f58cf55f6119a9b29bd40bc393d1f42e3b74500f72345b9145e4081e4014e9f545b5116ccc5e42b2b859f8ecc338ead22db5cb7dca74ab14b7
+[17-May-2025 13:22:25 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 08:22:32 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 08:22:32 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 40
+    [amount] => 300000
+    [received] => 400000
+    [cash_payment] => 1
+)
+
+[17-May-2025 08:22:32 Europe/Berlin] Processing cash payment for order #40 with amount 300000
+[17-May-2025 08:22:32 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[17-May-2025 08:22:32 Europe/Berlin] Starting cash payment process for order #40 with amount 300000
+[17-May-2025 08:22:32 Europe/Berlin] Database connection verified successfully
+[17-May-2025 08:22:32 Europe/Berlin] Beginning database transaction
+[17-May-2025 08:22:32 Europe/Berlin] Transaction started successfully
+[17-May-2025 08:22:32 Europe/Berlin] Found order with customer ID: 20
+[17-May-2025 08:22:32 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[17-May-2025 08:22:32 Europe/Berlin] savePaymentInfo: Saving payment for order #40 with amount 300000
+[17-May-2025 08:22:32 Europe/Berlin] savePaymentInfo: Successfully saved payment info
+[17-May-2025 08:22:32 Europe/Berlin] createInvoice: Checking for idNV column. Exists: No
+[17-May-2025 08:22:32 Europe/Berlin] createInvoice: Using SQL without idNV column
+[17-May-2025 08:22:32 Europe/Berlin] Successfully created invoice #39 for order #40
+[17-May-2025 08:22:32 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[17-May-2025 08:22:32 Europe/Berlin] Committing transaction
+[17-May-2025 08:22:32 Europe/Berlin] Transaction committed successfully
+[17-May-2025 08:22:32 Europe/Berlin] Transaction committed successfully for cash payment of order #40
+[17-May-2025 08:34:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 13:34:40 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[17-May-2025 13:34:40 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17500000&vnp_Command=pay&vnp_CreateDate=20250517133440&vnp_CurrCode=VND&vnp_ExpireDate=20250517140440&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+41&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=41_1747463680&vnp_Version=2.1.0&vnp_SecureHash=1eec8cac7412e3f6c8f5808d8cb3d822b5e47710bcfb5a088ce57c5ace1204ab5b52692ac4b348026144f8d4cf2d565112ca2783de0343668c2f72b68be4689b
+[17-May-2025 13:34:40 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[17-May-2025 08:34:45 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[17-May-2025 08:34:45 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 41
+    [amount] => 175000
+    [received] => 500000
+    [cash_payment] => 1
+)
+
+[17-May-2025 08:34:45 Europe/Berlin] Processing cash payment for order #41 with amount 175000
+[17-May-2025 08:34:45 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[17-May-2025 08:34:45 Europe/Berlin] Starting cash payment process for order #41 with amount 175000
+[17-May-2025 08:34:45 Europe/Berlin] Database connection verified successfully
+[17-May-2025 08:34:45 Europe/Berlin] Beginning database transaction
+[17-May-2025 08:34:45 Europe/Berlin] Transaction started successfully
+[17-May-2025 08:34:45 Europe/Berlin] Found order with customer ID: 6
+[17-May-2025 08:34:45 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[17-May-2025 08:34:45 Europe/Berlin] savePaymentInfo: Saving payment for order #41 with amount 175000
+[17-May-2025 08:34:45 Europe/Berlin] savePaymentInfo: Successfully saved payment info
+[17-May-2025 08:34:45 Europe/Berlin] createInvoice: Checking for idNV column. Exists: No
+[17-May-2025 08:34:45 Europe/Berlin] createInvoice: Using SQL without idNV column
+[17-May-2025 08:34:45 Europe/Berlin] Successfully created invoice #40 for order #41
+[17-May-2025 08:34:45 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[17-May-2025 08:34:45 Europe/Berlin] Committing transaction
+[17-May-2025 08:34:45 Europe/Berlin] Transaction committed successfully
+[17-May-2025 08:34:45 Europe/Berlin] Transaction committed successfully for cash payment of order #41
+[20-May-2025 11:51:01 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[20-May-2025 11:51:36 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[20-May-2025 16:51:36 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[20-May-2025 16:51:36 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25000000&vnp_Command=pay&vnp_CreateDate=20250520165136&vnp_CurrCode=VND&vnp_ExpireDate=20250520172136&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+45&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=45_1747734696&vnp_Version=2.1.0&vnp_SecureHash=da90a7b18698b700c50ca9245cfaefd32db518a65b86a22284f1d83641a69389acaa754776adf3eba681f96e1d0684331500687232a08d6e313a239230681a34
+[20-May-2025 16:51:37 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[20-May-2025 11:51:50 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[20-May-2025 11:51:50 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 45
+    [amount] => 250000
+    [received] => 250000
+    [cash_payment] => 1
+)
+
+[20-May-2025 11:51:50 Europe/Berlin] Processing cash payment for order #45 with amount 250000
+[20-May-2025 11:51:50 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[20-May-2025 11:51:50 Europe/Berlin] Starting cash payment process for order #45 with amount 250000
+[20-May-2025 11:51:50 Europe/Berlin] Database connection verified successfully
+[20-May-2025 11:51:50 Europe/Berlin] Beginning database transaction
+[20-May-2025 11:51:50 Europe/Berlin] Transaction started successfully
+[20-May-2025 11:51:50 Europe/Berlin] Found order with customer ID: 20
+[20-May-2025 11:51:50 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[20-May-2025 11:51:50 Europe/Berlin] savePaymentInfo: Saving payment for order #45 with amount 250000
+[20-May-2025 11:51:50 Europe/Berlin] savePaymentInfo: Successfully saved payment info
+[20-May-2025 11:51:50 Europe/Berlin] createInvoice: Checking for idNV column. Exists: No
+[20-May-2025 11:51:50 Europe/Berlin] createInvoice: Using SQL without idNV column
+[20-May-2025 11:51:50 Europe/Berlin] Successfully created invoice #41 for order #45
+[20-May-2025 11:51:50 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[20-May-2025 11:51:50 Europe/Berlin] Committing transaction
+[20-May-2025 11:51:50 Europe/Berlin] Transaction committed successfully
+[20-May-2025 11:51:50 Europe/Berlin] Transaction committed successfully for cash payment of order #45
+[21-May-2025 17:26:44 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[21-May-2025 22:26:44 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[21-May-2025 22:26:44 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=63000000&vnp_Command=pay&vnp_CreateDate=20250521222644&vnp_CurrCode=VND&vnp_ExpireDate=20250521225644&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+42&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=42_1747841204&vnp_Version=2.1.0&vnp_SecureHash=a150ebc7781eb96c98a2ecee5456709b1203fce4c133f31787b0b244f545e9b23086b372968ffd874db1c8bfcb07e924fa496aba8bc2b3606497a2e2371921dc
+[21-May-2025 22:26:44 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 06:34:13 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 06:34:19 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 06:45:14 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 11:45:14 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 11:45:14 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=8000000&vnp_Command=pay&vnp_CreateDate=20250522114514&vnp_CurrCode=VND&vnp_ExpireDate=20250522121514&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+43&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=43_1747889114&vnp_Version=2.1.0&vnp_SecureHash=0a796b74e3e15c990dc66088708050b59d4168cf4fa29d67a65e0ead9b6b2526968733716fc0e99d511edc6b751d7dfbe3b870f2f9048bb106b2aa5224a43a10
+[22-May-2025 11:45:14 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 06:51:34 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 06:52:13 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 06:53:29 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 11:53:29 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 11:53:29 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=8000000&vnp_Command=pay&vnp_CreateDate=20250522115329&vnp_CurrCode=VND&vnp_ExpireDate=20250522122329&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+43&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=43_1747889609&vnp_Version=2.1.0&vnp_SecureHash=1e3149d73dd8ea1b1cfc7dafd7c342c4ce4909cc3ac3476998f936e1e57c351a0f014e0c85a6edb9ca1d8b0e03d79500de0b24920336f78b770b6e34b36fbdf2
+[22-May-2025 11:53:29 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 06:53:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 06:53:56 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 43
+    [amount] => 80000
+    [received] => 100000
+    [cash_payment] => 1
+)
+
+[22-May-2025 06:53:56 Europe/Berlin] Processing cash payment for order #43 with amount 80000
+[22-May-2025 06:53:56 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[22-May-2025 06:53:56 Europe/Berlin] Starting cash payment process for order #43 with amount 80000
+[22-May-2025 06:53:56 Europe/Berlin] Database connection verified successfully
+[22-May-2025 06:53:56 Europe/Berlin] Beginning database transaction
+[22-May-2025 06:53:56 Europe/Berlin] Transaction started successfully
+[22-May-2025 06:53:56 Europe/Berlin] Found order with customer ID: 21
+[22-May-2025 06:53:56 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[22-May-2025 06:53:56 Europe/Berlin] savePaymentInfo: Saving payment for order #43 with amount 80000
+[22-May-2025 06:53:56 Europe/Berlin] savePaymentInfo: Successfully saved payment info
+[22-May-2025 06:53:56 Europe/Berlin] createInvoice: Checking for idNV column. Exists: No
+[22-May-2025 06:53:56 Europe/Berlin] createInvoice: Using SQL without idNV column
+[22-May-2025 06:53:56 Europe/Berlin] Successfully created invoice #41 for order #43
+[22-May-2025 06:53:56 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[22-May-2025 06:53:56 Europe/Berlin] Committing transaction
+[22-May-2025 06:53:56 Europe/Berlin] Transaction committed successfully
+[22-May-2025 06:53:56 Europe/Berlin] Transaction committed successfully for cash payment of order #43
+[22-May-2025 06:54:25 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 11:54:25 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 11:54:25 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=63000000&vnp_Command=pay&vnp_CreateDate=20250522115425&vnp_CurrCode=VND&vnp_ExpireDate=20250522122425&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+42&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=42_1747889665&vnp_Version=2.1.0&vnp_SecureHash=9745b1ab2b98272f01ff838bd6e8926db041be164d9ebc6703a6cfc2a3c0c9dcc4b7406dedda2515838d34a6109839c9de166bc3656cee876f2501ac746108ab
+[22-May-2025 11:54:25 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:02:42 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:02:42 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:02:42 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17000000&vnp_Command=pay&vnp_CreateDate=20250522120242&vnp_CurrCode=VND&vnp_ExpireDate=20250522123242&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+44&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=44_1747890162&vnp_Version=2.1.0&vnp_SecureHash=79548fc3f588e76c9faa5ef4574eb08943a17d968d946a90b2a7b875adee492773a19cf4ec5ea1bc3e4890474e1c375a33006005086546e0dd1160d821763dcf
+[22-May-2025 12:02:42 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:04:55 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:04:55 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:04:55 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250522120455&vnp_CurrCode=VND&vnp_ExpireDate=20250522123455&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+45&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=45_1747890295&vnp_Version=2.1.0&vnp_SecureHash=c3ddf5c829c8a711c71de606cf9ffec0e4759520b243627f6cba395f3c0d82bba7632b4af624a200faaecbbb8f39b3ffd74981bcfe5df7e9547e5a89924c4b43
+[22-May-2025 12:04:55 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:05:01 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 07:08:18 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 07:13:53 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:13:53 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:13:53 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250522121353&vnp_CurrCode=VND&vnp_ExpireDate=20250522124353&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+46&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=46_1747890833&vnp_Version=2.1.0&vnp_SecureHash=b19af95b64eb0e3b354f7a5794733d5c0e79bddbd30beea6cb868f61b0ae81cc8f7da08ea679eb4f15cd6ed4c91e10bd84e143320e517bfb23e8736af0820585
+[22-May-2025 12:13:54 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:14:01 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 07:14:01 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 46
+    [amount] => 255000
+    [received] => 500000
+    [cash_payment] => 1
+)
+
+[22-May-2025 07:14:01 Europe/Berlin] Processing cash payment for order #46 with amount 255000
+[22-May-2025 07:14:01 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[22-May-2025 07:14:01 Europe/Berlin] Starting cash payment process for order #46 with amount 255000
+[22-May-2025 07:14:01 Europe/Berlin] Database connection verified successfully
+[22-May-2025 07:14:01 Europe/Berlin] Beginning database transaction
+[22-May-2025 07:14:01 Europe/Berlin] Transaction started successfully
+[22-May-2025 07:14:01 Europe/Berlin] Found order with customer ID: 20
+[22-May-2025 07:14:01 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[22-May-2025 07:14:01 Europe/Berlin] savePaymentInfo: Saving payment for order #46 with amount 255000
+[22-May-2025 07:14:01 Europe/Berlin] savePaymentInfo: Successfully saved payment info
+[22-May-2025 07:14:01 Europe/Berlin] createInvoice: Checking for idNV column. Exists: No
+[22-May-2025 07:14:01 Europe/Berlin] createInvoice: Using SQL without idNV column
+[22-May-2025 07:14:01 Europe/Berlin] Successfully created invoice #45 for order #46
+[22-May-2025 07:14:01 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[22-May-2025 07:14:01 Europe/Berlin] Committing transaction
+[22-May-2025 07:14:01 Europe/Berlin] Transaction committed successfully
+[22-May-2025 07:14:01 Europe/Berlin] Transaction committed successfully for cash payment of order #46
+[22-May-2025 07:18:54 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:18:54 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:18:54 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=38000000&vnp_Command=pay&vnp_CreateDate=20250522121854&vnp_CurrCode=VND&vnp_ExpireDate=20250522124854&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+47&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=47_1747891134&vnp_Version=2.1.0&vnp_SecureHash=73310a551c62e2884ac407dd9781e89345a63e4f511ec2a07ff111c4e7158909cfbd358a2319f28c9e60e51072ad48bcb8e2c792305faba4dbbf725ee10ce130
+[22-May-2025 12:18:54 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:19:00 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 07:19:00 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 47
+    [amount] => 380000
+    [received] => 500000
+    [cash_payment] => 1
+)
+
+[22-May-2025 07:19:00 Europe/Berlin] Processing cash payment for order #47 with amount 380000
+[22-May-2025 07:19:00 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[22-May-2025 07:19:00 Europe/Berlin] Starting cash payment process for order #47 with amount 380000
+[22-May-2025 07:19:00 Europe/Berlin] Database connection verified successfully
+[22-May-2025 07:19:00 Europe/Berlin] Beginning database transaction
+[22-May-2025 07:19:00 Europe/Berlin] Transaction started successfully
+[22-May-2025 07:19:00 Europe/Berlin] Found order with customer ID: 6
+[22-May-2025 07:19:00 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[22-May-2025 07:19:00 Europe/Berlin] savePaymentInfo: Saving payment for order #47 with amount 380000
+[22-May-2025 07:19:00 Europe/Berlin] savePaymentInfo: Successfully saved payment info
+[22-May-2025 07:19:00 Europe/Berlin] createInvoice: Checking for idNV column. Exists: No
+[22-May-2025 07:19:00 Europe/Berlin] createInvoice: Using SQL without idNV column
+[22-May-2025 07:19:00 Europe/Berlin] Successfully created invoice #46 for order #47
+[22-May-2025 07:19:00 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[22-May-2025 07:19:00 Europe/Berlin] Committing transaction
+[22-May-2025 07:19:00 Europe/Berlin] Transaction committed successfully
+[22-May-2025 07:19:00 Europe/Berlin] Transaction committed successfully for cash payment of order #47
+[22-May-2025 07:21:15 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:21:15 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:21:15 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=18000000&vnp_Command=pay&vnp_CreateDate=20250522122115&vnp_CurrCode=VND&vnp_ExpireDate=20250522125115&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+48&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=48_1747891275&vnp_Version=2.1.0&vnp_SecureHash=71c645e7cb951be79f19561c81651ebe6f8aa4e262b9b6fbb21152ee596a11881fa2ba573ea3f135f0fd0ce938385d7e2a0391f597cb001ddd608c004e4dbe25
+[22-May-2025 12:21:15 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:25:37 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 07:25:37 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 48
+    [amount] => 180000
+    [received] => 200000
+    [cash_payment] => 1
+)
+
+[22-May-2025 07:25:37 Europe/Berlin] Processing cash payment for order #48 with amount 180000
+[22-May-2025 07:25:37 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[22-May-2025 07:25:37 Europe/Berlin] Starting cash payment process for order #48 with amount 180000
+[22-May-2025 07:25:37 Europe/Berlin] Database connection verified successfully
+[22-May-2025 07:25:37 Europe/Berlin] Beginning database transaction
+[22-May-2025 07:25:37 Europe/Berlin] Transaction started successfully
+[22-May-2025 07:25:37 Europe/Berlin] Found order with customer ID: 20
+[22-May-2025 07:25:37 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[22-May-2025 07:25:37 Europe/Berlin] savePaymentInfo: Saving payment for order #48 with amount 180000
+[22-May-2025 07:25:37 Europe/Berlin] savePaymentInfo: Successfully saved payment info
+[22-May-2025 07:25:37 Europe/Berlin] createInvoice: Checking for idNV column. Exists: No
+[22-May-2025 07:25:37 Europe/Berlin] createInvoice: Using SQL without idNV column
+[22-May-2025 07:25:37 Europe/Berlin] Successfully created invoice #47 for order #48
+[22-May-2025 07:25:37 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[22-May-2025 07:25:37 Europe/Berlin] Committing transaction
+[22-May-2025 07:25:37 Europe/Berlin] Transaction committed successfully
+[22-May-2025 07:25:37 Europe/Berlin] Transaction committed successfully for cash payment of order #48
+[22-May-2025 07:35:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:35:47 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:35:47 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=105000000&vnp_Command=pay&vnp_CreateDate=20250522123547&vnp_CurrCode=VND&vnp_ExpireDate=20250522130547&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+49&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=49_1747892147&vnp_Version=2.1.0&vnp_SecureHash=450178067ec93feb233ecc3a8d604bc2a8b7324b4a6e103922b396fd4568646518063d2a5f0e7809c37dc6a9a06ee6f8b5f631378ec7bb1b07041b5906523828
+[22-May-2025 12:35:47 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:37:10 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 07:42:42 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:42:42 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:42:42 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=45500000&vnp_Command=pay&vnp_CreateDate=20250522124242&vnp_CurrCode=VND&vnp_ExpireDate=20250522131242&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+50&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=50_1747892562&vnp_Version=2.1.0&vnp_SecureHash=9fd7f99952c46dddd194914e0c93a9fdf5202b0df62c7f35741d2c61d0dae2cf03283871608a15b02fab3d32109369094a9de5a03d2f428defe63bfa7af99f4b
+[22-May-2025 12:42:42 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:47:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:47:22 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:47:22 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=45500000&vnp_Command=pay&vnp_CreateDate=20250522124722&vnp_CurrCode=VND&vnp_ExpireDate=20250522131722&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+50&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2FAdmin%2Fkaiadmin-lite-1.2.0%2Fpage%2Fthanhtoan%2Fpayment_success.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=50_1747892842&vnp_Version=2.1.0&vnp_SecureHash=6afc963acfc8f69f954a4df5ae42f1ea28eec7e139e7fa6976f0df699d7433b9b091507a0776025bd3d09e73784a98ccb478e618ca2cf88b6c29fbd9a46eb1c9
+[22-May-2025 12:47:22 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:50:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:50:09 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:50:09 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=45500000&vnp_Command=pay&vnp_CreateDate=20250522125009&vnp_CurrCode=VND&vnp_ExpireDate=20250522132009&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+50&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=50_1747893009&vnp_Version=2.1.0&vnp_SecureHash=dff4d34965da37e2140d3a84648ad2cdef2bec3eda705c6869796a20ec6c78c822d9b78e740efc411c7ea9fd6a4aca65943e27af47adb906a021f5affab8cf3c
+[22-May-2025 12:50:09 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:50:11 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:50:11 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:50:11 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=45500000&vnp_Command=pay&vnp_CreateDate=20250522125011&vnp_CurrCode=VND&vnp_ExpireDate=20250522132011&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+50&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=50_1747893011&vnp_Version=2.1.0&vnp_SecureHash=4107ce8905685f81f2eec09316f6066a4d73f7a0ac22ff1215fcb5a0d557f32b8b439a64d06419c678450ae5e7208edca4dbb19f03ab72fb65cc8fcf56422bad
+[22-May-2025 12:50:11 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:50:38 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:50:38 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:50:38 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=45500000&vnp_Command=pay&vnp_CreateDate=20250522125038&vnp_CurrCode=VND&vnp_ExpireDate=20250522132038&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+50&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=50_1747893038&vnp_Version=2.1.0&vnp_SecureHash=6a4ef18155381694bc3f2e37d66bb38796727eeb40ab56541ee77f15a1bcbaddecee9febeec8c1258194a91d76f9b2c190faf784b4a6b492cbac9785462cb7be
+[22-May-2025 12:50:38 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:50:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:50:40 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:50:40 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=45500000&vnp_Command=pay&vnp_CreateDate=20250522125040&vnp_CurrCode=VND&vnp_ExpireDate=20250522132040&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+50&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=50_1747893040&vnp_Version=2.1.0&vnp_SecureHash=89077f1f68a34692f8e141ae14fbe4b34d7b56c952c1609eba1821869e6d60c6e383848a21d0a3f1d7575bb6e0303fad7543df276982838f709f0b8301fff83d
+[22-May-2025 12:50:40 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:53:43 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:53:43 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:53:43 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=45500000&vnp_Command=pay&vnp_CreateDate=20250522125343&vnp_CurrCode=VND&vnp_ExpireDate=20250522132343&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+50&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=50_1747893223&vnp_Version=2.1.0&vnp_SecureHash=545bd97b842f4a247a00415d6329677d28ea6a82be750b52c5d5652109d7e988ecf27fe4fc7c28998bb29b7b4b0f3d7c8a73cebc5b0b6cce4b589c76c66b8f8f
+[22-May-2025 12:53:44 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:54:43 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:54:43 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:54:43 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=45500000&vnp_Command=pay&vnp_CreateDate=20250522125443&vnp_CurrCode=VND&vnp_ExpireDate=20250522132443&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+50&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=50_1747893283&vnp_Version=2.1.0&vnp_SecureHash=afdad534711371f560db233097cdf55b69c62a7b68c4c69edcd3b0812e8184aba62ea7089a01f2ae526d8310aeb5f45c8be98595ede7740a36c53c315be5a744
+[22-May-2025 12:54:43 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:55:20 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:55:20 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:55:20 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17000000&vnp_Command=pay&vnp_CreateDate=20250522125520&vnp_CurrCode=VND&vnp_ExpireDate=20250522132520&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+51&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=51_1747893320&vnp_Version=2.1.0&vnp_SecureHash=caba6ea850c775a60cbfaaec03b836901cadfa4015225f6d0a8347566bec2ed44ea14b9f258228552df40be6534b3c33ac50da52a140210333853848ca26e322
+[22-May-2025 12:55:20 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:56:07 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:56:07 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:56:07 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17000000&vnp_Command=pay&vnp_CreateDate=20250522125607&vnp_CurrCode=VND&vnp_ExpireDate=20250522132607&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+51&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=51_1747893367&vnp_Version=2.1.0&vnp_SecureHash=0f56ec1853c697538e564b7e530ba16115c4321f70e596e6baff9cdf489c287bb269962ce6b4c5839a91dd387e2c0bec4cdb3ba90a2bc7e45921f075eedbe3a9
+[22-May-2025 12:56:07 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:57:55 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:57:55 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:57:55 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17000000&vnp_Command=pay&vnp_CreateDate=20250522125755&vnp_CurrCode=VND&vnp_ExpireDate=20250522132755&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+51&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=51_1747893475&vnp_Version=2.1.0&vnp_SecureHash=46d2f7487543ce2489ac339767449c661870432dfbd4826fc5e83fc62f749dcfdb9a57bfd8be898571a6592fe784d598f5b6d8e1910ffc74902e061cc09aa679
+[22-May-2025 12:57:55 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 07:58:00 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 07:58:00 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 51
+    [amount] => 170000
+    [received] => 500000
+    [cash_payment] => 1
+)
+
+[22-May-2025 07:58:00 Europe/Berlin] Processing cash payment for order #51 with amount 170000
+[22-May-2025 07:58:00 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[22-May-2025 07:58:00 Europe/Berlin] Starting cash payment process for order #51 with amount 170000
+[22-May-2025 07:58:00 Europe/Berlin] Database connection verified successfully
+[22-May-2025 07:58:00 Europe/Berlin] Beginning database transaction
+[22-May-2025 07:58:00 Europe/Berlin] Transaction started successfully
+[22-May-2025 07:58:00 Europe/Berlin] Found order with customer ID: 6
+[22-May-2025 07:58:00 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[22-May-2025 07:58:00 Europe/Berlin] savePaymentInfo: Saving payment for order #51 with amount 170000
+[22-May-2025 07:58:00 Europe/Berlin] savePaymentInfo: Successfully saved payment info
+[22-May-2025 07:58:00 Europe/Berlin] createInvoice: Checking for idNV column. Exists: No
+[22-May-2025 07:58:00 Europe/Berlin] createInvoice: Using SQL without idNV column
+[22-May-2025 07:58:00 Europe/Berlin] Successfully created invoice #49 for order #51
+[22-May-2025 07:58:00 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[22-May-2025 07:58:00 Europe/Berlin] Committing transaction
+[22-May-2025 07:58:00 Europe/Berlin] Transaction committed successfully
+[22-May-2025 07:58:00 Europe/Berlin] Transaction committed successfully for cash payment of order #51
+[22-May-2025 07:58:06 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 12:58:06 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 12:58:06 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=45500000&vnp_Command=pay&vnp_CreateDate=20250522125806&vnp_CurrCode=VND&vnp_ExpireDate=20250522132806&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+50&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=50_1747893486&vnp_Version=2.1.0&vnp_SecureHash=b056ac6548af95c9a53e2d31abd1cc699f55fa2d6321ce2b239c1a764657c3f5753836082b2ab86aaf5ebd44578d9f08cef2857d79e38798b8b0e878ceb1dd6b
+[22-May-2025 12:58:06 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 08:02:20 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 08:02:51 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 13:02:51 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 13:02:51 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250522130251&vnp_CurrCode=VND&vnp_ExpireDate=20250522133251&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+52&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=52_1747893771&vnp_Version=2.1.0&vnp_SecureHash=76d84a9c918229b661a2187d506d65ace027d20f3582cad13abfef96a5c0d5d3f80c88bfdad1e68e067dae5fcb5f8c507221f61361431e374ce55778828debf3
+[22-May-2025 13:02:51 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 08:03:46 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 13:03:46 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 13:03:46 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250522130346&vnp_CurrCode=VND&vnp_ExpireDate=20250522133346&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+52&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=52_1747893826&vnp_Version=2.1.0&vnp_SecureHash=884e72f21e48980a06de31943e963d3a0c759ede1c336fe6382795b66ded837581a8b341e37ba8c6c835892be5380f4d03e92b1a8a5fc41198247ba6b8575e71
+[22-May-2025 13:03:46 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 08:06:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 13:06:40 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 13:06:40 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17000000&vnp_Command=pay&vnp_CreateDate=20250522130640&vnp_CurrCode=VND&vnp_ExpireDate=20250522133640&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+53&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=53_1747894000&vnp_Version=2.1.0&vnp_SecureHash=2003adb83e8650f0078e6616a73838dc8dd513015ea21f116eca078779e8796dfa221f7f008b60cf6b4f1506977e03c46526a9ffa08a8884588cf5b5a14a5148
+[22-May-2025 13:06:40 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 08:09:33 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 13:09:33 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 13:09:33 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=30000000&vnp_Command=pay&vnp_CreateDate=20250522130933&vnp_CurrCode=VND&vnp_ExpireDate=20250522133933&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+54&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=54_1747894173&vnp_Version=2.1.0&vnp_SecureHash=fef2692bd544b29df061be6e597d2e4cc7d27e79b570538d271e822ab4351a35ec0909ae1ffd513383b43d806cb01f6437ee4c776c8c9954031b4b034ffe0872
+[22-May-2025 13:09:33 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 08:25:07 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 13:25:07 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 13:25:07 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=117000000&vnp_Command=pay&vnp_CreateDate=20250522132507&vnp_CurrCode=VND&vnp_ExpireDate=20250522135507&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+55&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Fvnpay_callback.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=55_1747895107&vnp_Version=2.1.0&vnp_SecureHash=b19e0eaf839e9958c1c373eeb739d2e0df3a6af141133bcbc9947f1beaad4015a7071143a102a54ba58f84145e62fd4af324cba6a0bd4e8ebece9d3bf5190a0c
+[22-May-2025 13:25:08 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 08:41:03 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 13:41:04 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 13:41:04 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=117000000&vnp_Command=pay&vnp_CreateDate=20250522134104&vnp_CurrCode=VND&vnp_ExpireDate=20250522141104&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+55&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=55_1747896064&vnp_Version=2.1.0&vnp_SecureHash=6d47ba2a53bb4e80c1845fe1c163839e5099ef1cff3a78ebade89c540b63ddf53529b8315f5ead38336497247bce4023efee4b8b6413f3372e233bd9b22f262d
+[22-May-2025 13:41:04 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 08:43:43 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 13:43:43 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 13:43:43 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=117000000&vnp_Command=pay&vnp_CreateDate=20250522134343&vnp_CurrCode=VND&vnp_ExpireDate=20250522141343&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+55&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=55_1747896223&vnp_Version=2.1.0&vnp_SecureHash=3b16e5c94fa694d14dfb26e9ccabff214aa1cfa602d066c88b4a8b91bc9b3eaa7b72c29216ea96e5e5f4e7eb730303149943fa11637a5f764c53b2925fd5d4e4
+[22-May-2025 13:43:44 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 08:52:35 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 13:52:35 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 13:52:35 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=18000000&vnp_Command=pay&vnp_CreateDate=20250522135235&vnp_CurrCode=VND&vnp_ExpireDate=20250522142235&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+56&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=56_1747896755&vnp_Version=2.1.0&vnp_SecureHash=891e27d3bc94d47ee9acd99713f1abfd3f9bde78dd455f4d230266434bd8b19db210372cd23ff8c30864549c0a5ce68c19412221a783c1620830de431bc6700f
+[22-May-2025 13:52:35 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 08:52:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 08:52:40 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 56
+    [amount] => 180000
+    [received] => 500000
+    [cash_payment] => 1
+)
+
+[22-May-2025 08:52:40 Europe/Berlin] Processing cash payment for order #56 with amount 180000
+[22-May-2025 08:52:40 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[22-May-2025 08:52:40 Europe/Berlin] Starting cash payment process for order #56 with amount 180000
+[22-May-2025 08:52:40 Europe/Berlin] Database connection verified successfully
+[22-May-2025 08:52:40 Europe/Berlin] Beginning database transaction
+[22-May-2025 08:52:40 Europe/Berlin] Transaction started successfully
+[22-May-2025 08:52:40 Europe/Berlin] Found order with customer ID: 6
+[22-May-2025 08:52:40 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[22-May-2025 08:52:40 Europe/Berlin] savePaymentInfo: Saving payment for order #56 with amount 180000
+[22-May-2025 08:52:40 Europe/Berlin] savePaymentInfo: Successfully saved payment info
+[22-May-2025 08:52:40 Europe/Berlin] createInvoice: Checking for idNV column. Exists: No
+[22-May-2025 08:52:40 Europe/Berlin] createInvoice: Using SQL without idNV column
+[22-May-2025 08:52:40 Europe/Berlin] Successfully created invoice #50 for order #56
+[22-May-2025 08:52:40 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[22-May-2025 08:52:40 Europe/Berlin] Committing transaction
+[22-May-2025 08:52:40 Europe/Berlin] Transaction committed successfully
+[22-May-2025 08:52:40 Europe/Berlin] Transaction committed successfully for cash payment of order #56
+[22-May-2025 08:55:10 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 13:55:10 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 13:55:10 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=38000000&vnp_Command=pay&vnp_CreateDate=20250522135510&vnp_CurrCode=VND&vnp_ExpireDate=20250522142510&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+57&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=57_1747896910&vnp_Version=2.1.0&vnp_SecureHash=e41dba83f70181972f6c2b7e151ae6ffc2c724fe1e58eafd3fffca489bd703abdba0e14cd096fc851029ff0702330d993fe297b5bc5f7d9dc40a8bdc69b82694
+[22-May-2025 13:55:10 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 09:11:58 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 14:11:58 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 14:11:58 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250522141158&vnp_CurrCode=VND&vnp_ExpireDate=20250522144158&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+58&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=58_1747897918&vnp_Version=2.1.0&vnp_SecureHash=4c5ee299e03dcc5b2e221264ff3eedf87bd9717ba686e68437c629094fdcab3ccc132e8ba94e0ddd27829df00edd1e235df05024a5fbc8b22226fc5cb20a5b9c
+[22-May-2025 14:11:58 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 09:12:15 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 14:12:15 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 14:12:15 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250522141215&vnp_CurrCode=VND&vnp_ExpireDate=20250522144215&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+58&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=58_1747897935&vnp_Version=2.1.0&vnp_SecureHash=039e2fa658ba0cf57b72d840ec5537117ae7421010da8dcaa5b849a61ecfc5e1a7d0ad1d48e4c17a156b9346a03dfd34a43fd995845d50b0d591a89be82be129
+[22-May-2025 14:12:15 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 09:19:15 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 14:19:15 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 14:19:15 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250522141915&vnp_CurrCode=VND&vnp_ExpireDate=20250522144915&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+59&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=59_1747898355&vnp_Version=2.1.0&vnp_SecureHash=677b1381b324803419e2a3bf8a55b1111837515de561e7d1c608c4fe20bef2c5dc3fd4b4c82d2b5fa4dd5565e167382fc53f9044a941bd55f1612759188169e9
+[22-May-2025 14:19:15 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 09:19:20 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 09:19:20 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 59
+    [amount] => 255000
+    [received] => 500000
+    [cash_payment] => 1
+)
+
+[22-May-2025 09:19:20 Europe/Berlin] Processing cash payment for order #59 with amount 255000
+[22-May-2025 09:19:20 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[22-May-2025 09:19:20 Europe/Berlin] Starting cash payment process for order #59 with amount 255000
+[22-May-2025 09:19:20 Europe/Berlin] Database connection verified successfully
+[22-May-2025 09:19:20 Europe/Berlin] Beginning database transaction
+[22-May-2025 09:19:20 Europe/Berlin] Transaction started successfully
+[22-May-2025 09:19:20 Europe/Berlin] Found order with customer ID: 6
+[22-May-2025 09:19:20 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[22-May-2025 09:19:20 Europe/Berlin] Created invoice #51 for order #59
+[22-May-2025 09:19:20 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[22-May-2025 09:19:20 Europe/Berlin] Committing transaction
+[22-May-2025 09:19:20 Europe/Berlin] Transaction committed successfully
+[22-May-2025 09:19:20 Europe/Berlin] Transaction committed successfully for cash payment of order #59
+[22-May-2025 09:20:01 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 14:20:01 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 14:20:01 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=35000000&vnp_Command=pay&vnp_CreateDate=20250522142001&vnp_CurrCode=VND&vnp_ExpireDate=20250522145001&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+60&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=60_1747898401&vnp_Version=2.1.0&vnp_SecureHash=b4b1864a52e128c1b52051b649e04d502febd36eb621dcbea097436e01cd7d4d802ca1cb251a538039ae8fe7c5d3a1032bf594ff1d5bec79053190509240b722
+[22-May-2025 14:20:01 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 18:29:42 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 23:29:42 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 23:29:42 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=17000000&vnp_Command=pay&vnp_CreateDate=20250522232942&vnp_CurrCode=VND&vnp_ExpireDate=20250522235942&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+64&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=64_1747931382&vnp_Version=2.1.0&vnp_SecureHash=183a03f1de8da2d99d7ffb6ccad5c6d8d13dffb7629c1c5c1abd33f60402dcf42d8826f1eea87555f85a4a11f25881e9cf8e1c76701fe6238a4aa1926210e707
+[22-May-2025 23:29:42 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 18:29:46 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 18:29:46 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 64
+    [amount] => 170000
+    [received] => 200000
+    [cash_payment] => 1
+)
+
+[22-May-2025 18:29:46 Europe/Berlin] Processing cash payment for order #64 with amount 170000
+[22-May-2025 18:29:46 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[22-May-2025 18:29:46 Europe/Berlin] Starting cash payment process for order #64 with amount 170000
+[22-May-2025 18:29:46 Europe/Berlin] Database connection verified successfully
+[22-May-2025 18:29:46 Europe/Berlin] Beginning database transaction
+[22-May-2025 18:29:46 Europe/Berlin] Transaction started successfully
+[22-May-2025 18:29:46 Europe/Berlin] Found order with customer ID: 6
+[22-May-2025 18:29:46 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[22-May-2025 18:29:46 Europe/Berlin] Created invoice #57 for order #64
+[22-May-2025 18:29:46 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[22-May-2025 18:29:46 Europe/Berlin] Committing transaction
+[22-May-2025 18:29:46 Europe/Berlin] Transaction committed successfully
+[22-May-2025 18:29:46 Europe/Berlin] Transaction committed successfully for cash payment of order #64
+[22-May-2025 18:30:06 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 23:30:06 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 23:30:06 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=42000000&vnp_Command=pay&vnp_CreateDate=20250522233006&vnp_CurrCode=VND&vnp_ExpireDate=20250523000006&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+63&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=63_1747931406&vnp_Version=2.1.0&vnp_SecureHash=28e16ce2e5ab7f7c4562fd98c7b8382a990eca7a813235459463feb5878eca96f5be35f786cc53993d42aaa8131c21efa99258646e3a2326eff32301cf97e20f
+[22-May-2025 23:30:06 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 18:30:10 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 18:30:10 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 63
+    [amount] => 420000
+    [received] => 500000
+    [cash_payment] => 1
+)
+
+[22-May-2025 18:30:10 Europe/Berlin] Processing cash payment for order #63 with amount 420000
+[22-May-2025 18:30:10 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[22-May-2025 18:30:10 Europe/Berlin] Starting cash payment process for order #63 with amount 420000
+[22-May-2025 18:30:10 Europe/Berlin] Database connection verified successfully
+[22-May-2025 18:30:10 Europe/Berlin] Beginning database transaction
+[22-May-2025 18:30:10 Europe/Berlin] Transaction started successfully
+[22-May-2025 18:30:10 Europe/Berlin] Found order with customer ID: 6
+[22-May-2025 18:30:10 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[22-May-2025 18:30:10 Europe/Berlin] Created invoice #58 for order #63
+[22-May-2025 18:30:10 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[22-May-2025 18:30:10 Europe/Berlin] Committing transaction
+[22-May-2025 18:30:10 Europe/Berlin] Transaction committed successfully
+[22-May-2025 18:30:10 Europe/Berlin] Transaction committed successfully for cash payment of order #63
+[22-May-2025 18:31:48 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 23:31:48 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 23:31:48 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=18000000&vnp_Command=pay&vnp_CreateDate=20250522233148&vnp_CurrCode=VND&vnp_ExpireDate=20250523000148&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+61&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=61_1747931508&vnp_Version=2.1.0&vnp_SecureHash=cca81c08d811cab8f478e97db45c1391a017932ac2b8dd5320d7383a0a3ac4d86529650e9345c8ce4c4e69fbbf105578ec27e2d5ffd07ab5abcca50b0abcb8d9
+[22-May-2025 23:31:48 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 18:35:29 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 23:35:29 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 23:35:29 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=24500000&vnp_Command=pay&vnp_CreateDate=20250522233529&vnp_CurrCode=VND&vnp_ExpireDate=20250523000529&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+62&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=62_1747931729&vnp_Version=2.1.0&vnp_SecureHash=65d6dd084f5f3735ee24b1a33938fc3ce8c181e2bec40cc2a83deb7aeb939d2d56577325da44bb2b0177b355e4fe137ecc8d3b3d591fe7296b289326d6246191
+[22-May-2025 23:35:29 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 18:37:05 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 23:37:05 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 23:37:05 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250522233705&vnp_CurrCode=VND&vnp_ExpireDate=20250523000705&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+65&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=65_1747931825&vnp_Version=2.1.0&vnp_SecureHash=b93b4befc35a9533d1b98bc83c366c008c3dd73094e939de5bc0b34da2f9e24847825d066e686dc682edb5f6aaefc3d64e51d6cd58fc7ee2044807f0f7753019
+[22-May-2025 23:37:05 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 18:45:00 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 23:45:00 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 23:45:00 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=33500000&vnp_Command=pay&vnp_CreateDate=20250522234500&vnp_CurrCode=VND&vnp_ExpireDate=20250523001500&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+66&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=66_1747932300&vnp_Version=2.1.0&vnp_SecureHash=b43909b6ec8546ed9f6e259e3af617faa14b3400069ca7e6922b0cc11f61493ab0d32e6424f669dd00af5b696ba53bd09f508a21209fbbc130410eccc7cfac9d
+[22-May-2025 23:45:00 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 18:45:04 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 18:45:04 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 66
+    [amount] => 335000
+    [received] => 500000
+    [cash_payment] => 1
+)
+
+[22-May-2025 18:45:04 Europe/Berlin] Processing cash payment for order #66 with amount 335000
+[22-May-2025 18:45:04 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[22-May-2025 18:45:04 Europe/Berlin] Starting cash payment process for order #66 with amount 335000
+[22-May-2025 18:45:04 Europe/Berlin] Database connection verified successfully
+[22-May-2025 18:45:04 Europe/Berlin] Beginning database transaction
+[22-May-2025 18:45:04 Europe/Berlin] Transaction started successfully
+[22-May-2025 18:45:04 Europe/Berlin] Found order with customer ID: 6
+[22-May-2025 18:45:04 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[22-May-2025 18:45:04 Europe/Berlin] Created invoice #62 for order #66
+[22-May-2025 18:45:04 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[22-May-2025 18:45:04 Europe/Berlin] Committing transaction
+[22-May-2025 18:45:04 Europe/Berlin] Transaction committed successfully
+[22-May-2025 18:45:04 Europe/Berlin] Transaction committed successfully for cash payment of order #66
+[22-May-2025 18:45:57 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 23:45:57 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 23:45:57 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=24500000&vnp_Command=pay&vnp_CreateDate=20250522234557&vnp_CurrCode=VND&vnp_ExpireDate=20250523001557&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+67&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=67_1747932357&vnp_Version=2.1.0&vnp_SecureHash=6960ef495cca0c1cab18f6eaff07c890b8f4bf7b5705a90ae9428df63a7841e49bd03f9c2be5a51ef63dcfc335da8dad53945cac943b7591619d327ea6c6a61f
+[22-May-2025 23:45:58 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[22-May-2025 18:46:16 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[22-May-2025 23:46:16 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[22-May-2025 23:46:16 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=24500000&vnp_Command=pay&vnp_CreateDate=20250522234616&vnp_CurrCode=VND&vnp_ExpireDate=20250523001616&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+67&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=67_1747932376&vnp_Version=2.1.0&vnp_SecureHash=74b850d79178fcb817b14d903a1106e1aebc0147b72a8853a51f49f7bbda3ee0b195b603e49f5d59f292fa2c44751980311f9a7cb0e996dae08d354c0dd444fc
+[22-May-2025 23:46:17 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[24-May-2025 06:52:53 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[24-May-2025 11:52:53 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[24-May-2025 11:52:53 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250524115253&vnp_CurrCode=VND&vnp_ExpireDate=20250524122253&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+68&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=68_1748062373&vnp_Version=2.1.0&vnp_SecureHash=aacb2313e4b497a0963b78fced34be7a5dd702cdc40a579115d5eab2f8129fc3e59571e4afa43aee6c7b5b6f12d50ef0439c2702de22c618f1747e01a85a8d84
+[24-May-2025 11:52:53 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 04:24:58 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[27-May-2025 09:24:58 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 09:24:58 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250527092458&vnp_CurrCode=VND&vnp_ExpireDate=20250527095458&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+69&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=69_1748312698&vnp_Version=2.1.0&vnp_SecureHash=08487e70be509ced9baeadcd43cfaaa798007ccd0a9500d47f8b0b2735b960a8b8d51e4228aa845a9884c13a6efac1c76b9fc316ac1a5971d015f8568c35aee0
+[27-May-2025 09:24:58 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 04:43:04 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[27-May-2025 09:43:04 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 09:43:04 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250527094304&vnp_CurrCode=VND&vnp_ExpireDate=20250527101304&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+69&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=69_1748313784&vnp_Version=2.1.0&vnp_SecureHash=1ab04020c06ced1c4b307545bb9fd716fab026dddb380e75219f4024ed88705ed36d33b6868677efed257fe85795ccd8dc674afb5a2e19573f1489b8b56bf3e5
+[27-May-2025 09:43:04 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 04:43:55 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[27-May-2025 09:43:55 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 09:43:55 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250527094355&vnp_CurrCode=VND&vnp_ExpireDate=20250527101355&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+69&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=69_1748313835&vnp_Version=2.1.0&vnp_SecureHash=255e8c3b5b1672bb35320ee33712db346fa37f05c90a663bf2244806c9e04c3c2b074149a50dc9b821adfe5d1e79833a5e8cd27d8aec6113f6c84a3c12e9dbb7
+[27-May-2025 09:43:55 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 04:46:04 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[27-May-2025 09:46:04 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 09:46:04 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250527094604&vnp_CurrCode=VND&vnp_ExpireDate=20250527101604&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+69&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=69_1748313964&vnp_Version=2.1.0&vnp_SecureHash=da1ba904f8a5d38e9c1d4d24a896d7f07e84d2ec5c4e839e0b3ab20b6475734392c53b1e67bed8494f17fd2dc53943e62bfe9ae0e1d0584d31e2c22aedd8ebec
+[27-May-2025 09:46:05 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 05:18:13 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[27-May-2025 10:18:13 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 10:18:13 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250527101813&vnp_CurrCode=VND&vnp_ExpireDate=20250527104813&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+69&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=69_1748315893&vnp_Version=2.1.0&vnp_SecureHash=9869a9d208ccbb83dcfb7a667b3ec55476e130148292ddef8a7d5ad8fc171a65474aa7e4b11710c759356ec7c2537cd78ba0bd8c2f2b52e5afc67f47ca78e1a9
+[27-May-2025 10:18:13 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 09:12:57 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[27-May-2025 14:12:57 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 14:12:57 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=40000000&vnp_Command=pay&vnp_CreateDate=20250527141257&vnp_CurrCode=VND&vnp_ExpireDate=20250527144257&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+70&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=70_1748329977&vnp_Version=2.1.0&vnp_SecureHash=17c6ef5d44f3db3733e21fd135e4ca77106fd299f0f69e5d2ef8f87ec0aa93ede31517d8337928fc3cdfe75f9171ce929a6b12e1bd8e8bd680257fc2a135f00e
+[27-May-2025 14:12:57 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 09:13:03 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[27-May-2025 09:13:03 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 70
+    [amount] => 400000
+    [received] => 500000
+    [cash_payment] => 1
+)
+
+[27-May-2025 09:13:03 Europe/Berlin] Processing cash payment for order #70 with amount 400000
+[27-May-2025 09:13:03 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[27-May-2025 09:13:03 Europe/Berlin] Starting cash payment process for order #70 with amount 400000
+[27-May-2025 09:13:03 Europe/Berlin] Database connection verified successfully
+[27-May-2025 09:13:03 Europe/Berlin] Beginning database transaction
+[27-May-2025 09:13:03 Europe/Berlin] Transaction started successfully
+[27-May-2025 09:13:03 Europe/Berlin] Found order with customer ID: 6
+[27-May-2025 09:13:03 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[27-May-2025 09:13:03 Europe/Berlin] Created invoice #66 for order #70
+[27-May-2025 09:13:03 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[27-May-2025 09:13:03 Europe/Berlin] Committing transaction
+[27-May-2025 09:13:03 Europe/Berlin] Transaction committed successfully
+[27-May-2025 09:13:03 Europe/Berlin] Transaction committed successfully for cash payment of order #70
+[27-May-2025 09:24:01 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[27-May-2025 14:24:01 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 14:24:01 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=3500000&vnp_Command=pay&vnp_CreateDate=20250527142401&vnp_CurrCode=VND&vnp_ExpireDate=20250527145401&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+72&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=72_1748330641&vnp_Version=2.1.0&vnp_SecureHash=e6edbbdc2c615394f48d30704a30110b4246f7a4aadb5b588c1c714e3ea79a00b0a1047e58223f5f0b26205de094db31f904a177801651d180333b669166ed47
+[27-May-2025 14:24:01 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 10:30:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[27-May-2025 15:30:40 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 15:30:40 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=32000000&vnp_Command=pay&vnp_CreateDate=20250527153040&vnp_CurrCode=VND&vnp_ExpireDate=20250527160040&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+71&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=71_1748334640&vnp_Version=2.1.0&vnp_SecureHash=bc736cb2fda8ac22347759a91caac23aa7cd00930eb668112ac6b5edbf02a8879b57f606ffcddac1693e6448a417d66bc7bb95880e01843901126e870fb34637
+[27-May-2025 15:30:40 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 10:30:46 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[27-May-2025 10:30:46 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 71
+    [amount] => 320000
+    [received] => 500000
+    [cash_payment] => 1
+)
+
+[27-May-2025 10:30:46 Europe/Berlin] Processing cash payment for order #71 with amount 320000
+[27-May-2025 10:30:46 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[27-May-2025 10:30:46 Europe/Berlin] Starting cash payment process for order #71 with amount 320000
+[27-May-2025 10:30:46 Europe/Berlin] Database connection verified successfully
+[27-May-2025 10:30:46 Europe/Berlin] Beginning database transaction
+[27-May-2025 10:30:46 Europe/Berlin] Transaction started successfully
+[27-May-2025 10:30:46 Europe/Berlin] Found order with customer ID: 6
+[27-May-2025 10:30:46 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[27-May-2025 10:30:46 Europe/Berlin] Created invoice #68 for order #71
+[27-May-2025 10:30:46 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[27-May-2025 10:30:46 Europe/Berlin] Committing transaction
+[27-May-2025 10:30:46 Europe/Berlin] Transaction committed successfully
+[27-May-2025 10:30:46 Europe/Berlin] Transaction committed successfully for cash payment of order #71
+[27-May-2025 10:32:45 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[27-May-2025 15:32:45 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 15:32:45 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=18000000&vnp_Command=pay&vnp_CreateDate=20250527153245&vnp_CurrCode=VND&vnp_ExpireDate=20250527160245&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+73&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=73_1748334765&vnp_Version=2.1.0&vnp_SecureHash=3885a5494ba6c814bef7fbb7b1f96b61e720f627daa86787a68ba2b46efb8ffe32c150aef56541f7a971c9cffafae30e6cf18d422c64b516b1adbb569147a198
+[27-May-2025 15:32:45 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 10:46:35 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[27-May-2025 15:46:35 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 15:46:35 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250527154635&vnp_CurrCode=VND&vnp_ExpireDate=20250527161635&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+74&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=74_1748335595&vnp_Version=2.1.0&vnp_SecureHash=c91596dcfb8078799547d44a1f10fff597618aeb933bb61b6b0d241c80fc8e45ae37d59a4cb66498052f012bd7ddf14e4cd8b637ecae1bbeba9a73335325cee7
+[27-May-2025 15:46:35 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 10:49:05 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[27-May-2025 15:49:05 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 15:49:05 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250527154905&vnp_CurrCode=VND&vnp_ExpireDate=20250527161905&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+75&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=75_1748335745&vnp_Version=2.1.0&vnp_SecureHash=de21c42b30e588bb9555b8cb0934580c2f526cf3f223dadfb1aa410e73d2118aac71a9be658a818c99c459625e5b902a1ee5b5055afb99f1c7ce4236d0471371
+[27-May-2025 15:49:05 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 10:53:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[27-May-2025 15:53:47 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 15:53:47 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=48000000&vnp_Command=pay&vnp_CreateDate=20250527155347&vnp_CurrCode=VND&vnp_ExpireDate=20250527162347&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+76&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=76_1748336027&vnp_Version=2.1.0&vnp_SecureHash=46e02c5df7fe6b79383b2c85b84db5ea13a8b5d94aaa1a98226e2f05718e8ddd113ae685e6937ef9b336b0a84e5083a63fd2513b00f555d4180892fa1cd78f17
+[27-May-2025 15:53:47 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 11:02:41 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\CNM\Admin\kaiadmin-lite-1.2.0\page\thanhtoan\payment.php on line 21
+[27-May-2025 16:02:41 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 16:02:41 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=50000000&vnp_Command=pay&vnp_CreateDate=20250527160241&vnp_CurrCode=VND&vnp_ExpireDate=20250527163241&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+77&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=77_1748336561&vnp_Version=2.1.0&vnp_SecureHash=dbb71836b01ce150d63a6726e5ffddc9177a05a4a81b51c61456cfe0651c712291ba4afdc4542c81635a4eef397a8db7cdd3594e5da44ce62914a3df046dc2a0
+[27-May-2025 16:02:41 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 11:17:35 Europe/Berlin] SQL Query for order details: SELECT m.tenmonan, m.DonViTinh, c.SoLuong, m.DonGia, (c.SoLuong * m.DonGia) as ThanhTien
+        FROM chitietdonhang c
+        JOIN monan m ON c.idmonan = m.idmonan
+        WHERE c.idDH = ?
+[27-May-2025 16:17:35 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 16:17:35 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=84500000&vnp_Command=pay&vnp_CreateDate=20250527161735&vnp_CurrCode=VND&vnp_ExpireDate=20250527164735&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+78&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=78_1748337455&vnp_Version=2.1.0&vnp_SecureHash=a86015f60c95f4a81b2bf936639230eb06849eebf5bc2897a63623a647bb700c5716cfee17d16334f3e6713e1f20d95f262011da1d6766eca989c827a9a94843
+[27-May-2025 16:17:35 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 17:18:13 Europe/Berlin] SQL Query for order details: SELECT m.tenmonan, m.DonViTinh, c.SoLuong, m.DonGia, (c.SoLuong * m.DonGia) as ThanhTien
+        FROM chitietdonhang c
+        JOIN monan m ON c.idmonan = m.idmonan
+        WHERE c.idDH = ?
+[27-May-2025 22:18:13 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 22:18:13 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=80000000&vnp_Command=pay&vnp_CreateDate=20250527221813&vnp_CurrCode=VND&vnp_ExpireDate=20250527224813&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+79&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=79_1748359093&vnp_Version=2.1.0&vnp_SecureHash=7570273712362a2e72f84af388a5718a92ebde49fb2e1b8a8412410f5a987326b2ebdef3fd88402c4e6adcb4b98534016b1150cce8d801d857236fc647924fe5
+[27-May-2025 22:18:13 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 17:18:43 Europe/Berlin] SQL Query for order details: SELECT m.tenmonan, m.DonViTinh, c.SoLuong, m.DonGia, (c.SoLuong * m.DonGia) as ThanhTien
+        FROM chitietdonhang c
+        JOIN monan m ON c.idmonan = m.idmonan
+        WHERE c.idDH = ?
+[27-May-2025 22:18:43 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 22:18:43 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=88500000&vnp_Command=pay&vnp_CreateDate=20250527221843&vnp_CurrCode=VND&vnp_ExpireDate=20250527224843&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+79&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=79_1748359123&vnp_Version=2.1.0&vnp_SecureHash=6fb080729db312f942ef87ca7cfc3f8eee503c61f25826fe72d25cffc8a6547ece0cd8bdc2c189a2f6666ba273081711411eeb34ba82d4aca295533ea6abdb98
+[27-May-2025 22:18:43 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[27-May-2025 17:18:55 Europe/Berlin] Cash payment form submitted: Array
+(
+    [idDH] => 79
+    [amount] => 885000
+    [received] => 1000000
+    [cash_payment] => 1
+)
+
+[27-May-2025 17:18:55 Europe/Berlin] Processing cash payment for order #79 with amount 885000
+[27-May-2025 17:18:55 Europe/Berlin] Warning: Database may not support transactions (InnoDB)
+[27-May-2025 17:18:55 Europe/Berlin] Starting cash payment process for order #79 with amount 885000
+[27-May-2025 17:18:55 Europe/Berlin] Database connection verified successfully
+[27-May-2025 17:18:55 Europe/Berlin] Beginning database transaction
+[27-May-2025 17:18:55 Europe/Berlin] Transaction started successfully
+[27-May-2025 17:18:55 Europe/Berlin] Found order with customer ID: 6
+[27-May-2025 17:18:55 Europe/Berlin] Successfully updated order status to 'Đã thanh toán'
+[27-May-2025 17:18:55 Europe/Berlin] Created invoice #75 for order #79
+[27-May-2025 17:18:55 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[27-May-2025 17:18:55 Europe/Berlin] logTransaction: Failed to insert log record for order #79
+[27-May-2025 17:18:55 Europe/Berlin] Lỗi câu truy vấn: Unknown column 'PhuongThuc' in 'field list'
+[27-May-2025 17:18:55 Europe/Berlin] Committing transaction
+[27-May-2025 17:18:55 Europe/Berlin] Transaction committed successfully
+[27-May-2025 17:18:55 Europe/Berlin] Transaction committed successfully for cash payment of order #79
+[27-May-2025 18:04:28 Europe/Berlin] SQL Query for order details: SELECT m.tenmonan, m.DonViTinh, c.SoLuong, m.DonGia, (c.SoLuong * m.DonGia) as ThanhTien
+        FROM chitietdonhang c
+        JOIN monan m ON c.idmonan = m.idmonan
+        WHERE c.idDH = ?
+[27-May-2025 23:04:28 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[27-May-2025 23:04:28 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250527230428&vnp_CurrCode=VND&vnp_ExpireDate=20250527233428&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+81&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=81_1748361868&vnp_Version=2.1.0&vnp_SecureHash=405166af53f5c2689350730e097d32412258911957e9d989c080b70ed01e0c0080c8d2836eeb73ff815310f0ed42de997c46346319e348fe3932547f5b59e23d
+[27-May-2025 23:04:28 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid
+[28-May-2025 07:28:34 Europe/Berlin] SQL Query for order details: SELECT m.tenmonan, m.DonViTinh, c.SoLuong, m.DonGia, (c.SoLuong * m.DonGia) as ThanhTien
+        FROM chitietdonhang c
+        JOIN monan m ON c.idmonan = m.idmonan
+        WHERE c.idDH = ?
+[28-May-2025 12:28:34 Asia/Ho_Chi_Minh] Starting QR code generation with Endroid library
+[28-May-2025 12:28:34 Asia/Ho_Chi_Minh] QR URL: https://sandbox.vnpayment.vn/paymentv2/vpcpay.html?vnp_Amount=25500000&vnp_Command=pay&vnp_CreateDate=20250528122834&vnp_CurrCode=VND&vnp_ExpireDate=20250528125834&vnp_IpAddr=%3A%3A1&vnp_Locale=vn&vnp_OrderInfo=Thanh+toan+don+hang+81&vnp_OrderType=billpayment&vnp_ReturnUrl=http%3A%2F%2Flocalhost%2FCNM%2Findex.php&vnp_TmnCode=A7RWSAH8&vnp_TxnRef=81_1748410114&vnp_Version=2.1.0&vnp_SecureHash=3d0fd9c4fbad645c29cb382af2536fba095ba2bce93bf17304b6d177199395e6d8b54882916e54eb18c5a75f6e3ef8417f9aeda3fb503c22994955fad1f77297
+[28-May-2025 12:28:35 Asia/Ho_Chi_Minh] QR code generated successfully with Endroid

@@ -1,0 +1,1681 @@
+2025-05-16 11:55:43 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 26500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14961194
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 14
+    [vnp_PayDate] => 20250516165606
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14961194
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 14_1747389305
+    [vnp_SecureHash] => b8f38bec1365a2d20724dc0541942613771acb95b0ee48b0f3ea913269ddb95a70fbe0b0901dd7d7743347a21cc5a9ee97e09e420c4873c5d17930cf56fe8924
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=26500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14961194&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+14&vnp_PayDate=20250516165606&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14961194&vnp_TransactionStatus=00&vnp_TxnRef=14_1747389305&vnp_SecureHash=b8f38bec1365a2d20724dc0541942613771acb95b0ee48b0f3ea913269ddb95a70fbe0b0901dd7d7743347a21cc5a9ee97e09e420c4873c5d17930cf56fe8924
+----------------------------------------
+2025-05-16 11:55:43 - Error processing payment: Không thể lưu thông tin thanh toán: Cannot add or update a child row: a foreign key constraint fails (`restaurant`.`thanhtoan`, CONSTRAINT `thanhtoan_ibfk_1` FOREIGN KEY (`madatban`) REFERENCES `datban` (`madatban`) ON DELETE CASCADE)
+2025-05-16 11:55:44 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 14
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=14
+----------------------------------------
+2025-05-16 11:56:42 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 9500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14961200
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 15
+    [vnp_PayDate] => 20250516165706
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14961200
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 15_1747389365
+    [vnp_SecureHash] => 7ec9817ac267874b10efc3329461139a018c10be8636a8f6a8ca631cf4b610fc9b6e6bc07201e5f532f304541c6eb1f4b769b412ac62fceabdac05e02e508fbd
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=9500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14961200&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+15&vnp_PayDate=20250516165706&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14961200&vnp_TransactionStatus=00&vnp_TxnRef=15_1747389365&vnp_SecureHash=7ec9817ac267874b10efc3329461139a018c10be8636a8f6a8ca631cf4b610fc9b6e6bc07201e5f532f304541c6eb1f4b769b412ac62fceabdac05e02e508fbd
+----------------------------------------
+2025-05-16 11:56:42 - Error processing payment: Không thể lưu thông tin thanh toán: Cannot add or update a child row: a foreign key constraint fails (`restaurant`.`thanhtoan`, CONSTRAINT `thanhtoan_ibfk_1` FOREIGN KEY (`madatban`) REFERENCES `datban` (`madatban`) ON DELETE CASCADE)
+2025-05-16 11:56:44 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 15
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=15
+----------------------------------------
+2025-05-16 12:59:00 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php
+----------------------------------------
+2025-05-16 12:59:41 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 10000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14961344
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 5
+    [vnp_PayDate] => 20250516180003
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14961344
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 5_1747393143
+    [vnp_SecureHash] => 21ea3fc150ce4cf287e7b4646c87babf0593ce260bcf8dba8ccfb041ea7ff9668269a6ecbd12586e7ab94741bf9a93b8a0e30b9d4445619b4131edbc2ec88162
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=10000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14961344&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+5&vnp_PayDate=20250516180003&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14961344&vnp_TransactionStatus=00&vnp_TxnRef=5_1747393143&vnp_SecureHash=21ea3fc150ce4cf287e7b4646c87babf0593ce260bcf8dba8ccfb041ea7ff9668269a6ecbd12586e7ab94741bf9a93b8a0e30b9d4445619b4131edbc2ec88162
+----------------------------------------
+Lỗi khi lưu thanhtoan: Cannot add or update a child row: a foreign key constraint fails (`restaurant`.`thanhtoan`, CONSTRAINT `thanhtoan_ibfk_1` FOREIGN KEY (`madatban`) REFERENCES `datban` (`madatban`) ON DELETE CASCADE)
+2025-05-16 12:59:41 - Payment Success - idDH: 5 - Amount: 100000 - Transaction No: 14961344
+2025-05-16 13:00:04 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php
+----------------------------------------
+2025-05-16 13:11:48 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php
+----------------------------------------
+2025-05-16 14:19:13 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 2000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14961452
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 21
+    [vnp_PayDate] => 20250516191934
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14961452
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 21_1747397903
+    [vnp_SecureHash] => e27ce5191d883ddadcebce32b0a7f2b138410a42c74384a0e61377473fc3fe14c34b1ea06a8e1c9adfdfef919502894b427115d5946daf002a047325af3373c3
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=2000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14961452&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+21&vnp_PayDate=20250516191934&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14961452&vnp_TransactionStatus=00&vnp_TxnRef=21_1747397903&vnp_SecureHash=e27ce5191d883ddadcebce32b0a7f2b138410a42c74384a0e61377473fc3fe14c34b1ea06a8e1c9adfdfef919502894b427115d5946daf002a047325af3373c3
+----------------------------------------
+Lỗi khi lưu thanhtoan: Cannot add or update a child row: a foreign key constraint fails (`restaurant`.`thanhtoan`, CONSTRAINT `thanhtoan_ibfk_1` FOREIGN KEY (`madatban`) REFERENCES `datban` (`madatban`) ON DELETE CASCADE)
+2025-05-16 14:19:13 - Payment Success - idDH: 21 - Amount: 20000 - Transaction No: 14961452
+2025-05-16 14:22:49 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 10000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14961456
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 22
+    [vnp_PayDate] => 20250516192313
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14961456
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 22_1747398129
+    [vnp_SecureHash] => 8dd4d622b75d6b25a7ef00a75d062c2b146443ffc3630705775570bcf39ea94d1b6678ed345eeb472dba2fff7212d5560e1edc83f75df62a81190abbb060da2e
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=10000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14961456&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+22&vnp_PayDate=20250516192313&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14961456&vnp_TransactionStatus=00&vnp_TxnRef=22_1747398129&vnp_SecureHash=8dd4d622b75d6b25a7ef00a75d062c2b146443ffc3630705775570bcf39ea94d1b6678ed345eeb472dba2fff7212d5560e1edc83f75df62a81190abbb060da2e
+----------------------------------------
+Lỗi khi lưu thanhtoan: Cannot add or update a child row: a foreign key constraint fails (`restaurant`.`thanhtoan`, CONSTRAINT `thanhtoan_ibfk_1` FOREIGN KEY (`madatban`) REFERENCES `datban` (`madatban`) ON DELETE CASCADE)
+2025-05-16 14:22:49 - Payment Success - idDH: 22 - Amount: 100000 - Transaction No: 14961456
+2025-05-16 14:28:28 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 8500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14961460
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 24
+    [vnp_PayDate] => 20250516192851
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14961460
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 24_1747398472
+    [vnp_SecureHash] => b06cdc9a0cc1a9776112007fbfa0770b59d20e3fc20fd2affe99cd9db87be7cde18af449cf25627350d784f3f4ebe9306b50a8a35c7814271de2792d0ba31096
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=8500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14961460&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+24&vnp_PayDate=20250516192851&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14961460&vnp_TransactionStatus=00&vnp_TxnRef=24_1747398472&vnp_SecureHash=b06cdc9a0cc1a9776112007fbfa0770b59d20e3fc20fd2affe99cd9db87be7cde18af449cf25627350d784f3f4ebe9306b50a8a35c7814271de2792d0ba31096
+----------------------------------------
+Lỗi khi lưu thanhtoan: Cannot add or update a child row: a foreign key constraint fails (`restaurant`.`thanhtoan`, CONSTRAINT `thanhtoan_ibfk_1` FOREIGN KEY (`madatban`) REFERENCES `datban` (`madatban`) ON DELETE CASCADE)
+2025-05-16 14:28:28 - Payment Success - idDH: 24 - Amount: 85000 - Transaction No: 14961460
+2025-05-16 14:35:20 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 10000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14961467
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 23
+    [vnp_PayDate] => 20250516193542
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14961467
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 23_1747398877
+    [vnp_SecureHash] => 549f36e31f27fc19c80c73799f0edc8f642de18ed43a1c4a38e8a14db18e12f6c1c17f91c6688efd976590bf534c9207da85704656d057288537ea418c92e9b9
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=10000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14961467&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+23&vnp_PayDate=20250516193542&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14961467&vnp_TransactionStatus=00&vnp_TxnRef=23_1747398877&vnp_SecureHash=549f36e31f27fc19c80c73799f0edc8f642de18ed43a1c4a38e8a14db18e12f6c1c17f91c6688efd976590bf534c9207da85704656d057288537ea418c92e9b9
+----------------------------------------
+Lỗi khi lưu thanhtoan: Cannot add or update a child row: a foreign key constraint fails (`restaurant`.`thanhtoan`, CONSTRAINT `thanhtoan_ibfk_1` FOREIGN KEY (`madatban`) REFERENCES `datban` (`madatban`) ON DELETE CASCADE)
+2025-05-16 14:35:20 - Payment Success - idDH: 23 - Amount: 100000 - Transaction No: 14961467
+2025-05-16 15:13:52 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 1500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14961509
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 25
+    [vnp_PayDate] => 20250516201412
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14961509
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 25_1747401166
+    [vnp_SecureHash] => 48396d503ba11d55582b890c2449e278338ee30242499861994ead7ed80b65616ae211ab19589a708b6d2a295649ecf640db7b57efe4958eb62322d2ab5fa767
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=1500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14961509&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+25&vnp_PayDate=20250516201412&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14961509&vnp_TransactionStatus=00&vnp_TxnRef=25_1747401166&vnp_SecureHash=48396d503ba11d55582b890c2449e278338ee30242499861994ead7ed80b65616ae211ab19589a708b6d2a295649ecf640db7b57efe4958eb62322d2ab5fa767
+----------------------------------------
+Lỗi khi lưu thanhtoan: Cannot add or update a child row: a foreign key constraint fails (`restaurant`.`thanhtoan`, CONSTRAINT `thanhtoan_ibfk_1` FOREIGN KEY (`madatban`) REFERENCES `datban` (`madatban`) ON DELETE CASCADE)
+2025-05-16 15:13:52 - Payment Success - idDH: 25 - Amount: 15000 - Transaction No: 14961509
+2025-05-16 15:24:05 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 38000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14961523
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 26
+    [vnp_PayDate] => 20250516202427
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14961523
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 26_1747401806
+    [vnp_SecureHash] => 192d277f174f9469a970e6aac502549aa549448b6998913759978308b26c9f02105b7eff2d84350026db22e60cf7388ff222bd45ccfee761a96a9c9e524ccd6f
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=38000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14961523&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+26&vnp_PayDate=20250516202427&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14961523&vnp_TransactionStatus=00&vnp_TxnRef=26_1747401806&vnp_SecureHash=192d277f174f9469a970e6aac502549aa549448b6998913759978308b26c9f02105b7eff2d84350026db22e60cf7388ff222bd45ccfee761a96a9c9e524ccd6f
+----------------------------------------
+Lỗi khi lưu thanhtoan: Cannot add or update a child row: a foreign key constraint fails (`restaurant`.`thanhtoan`, CONSTRAINT `thanhtoan_ibfk_1` FOREIGN KEY (`madatban`) REFERENCES `datban` (`madatban`) ON DELETE CASCADE)
+2025-05-16 15:24:05 - Payment Success - idDH: 26 - Amount: 380000 - Transaction No: 14961523
+2025-05-16 16:33:06 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 26500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14961627
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 30
+    [vnp_PayDate] => 20250516213330
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14961627
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 30_1747405935
+    [vnp_SecureHash] => c8a00bca25077a9f936fcb5f283bee27cffeec2c7f6ac58679e62b4ede70511b7d46103bb3c59bbcb24b16730d85b42d881ff8f1adfc528109bf8b58e10ccf1c
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=26500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14961627&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+30&vnp_PayDate=20250516213330&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14961627&vnp_TransactionStatus=00&vnp_TxnRef=30_1747405935&vnp_SecureHash=c8a00bca25077a9f936fcb5f283bee27cffeec2c7f6ac58679e62b4ede70511b7d46103bb3c59bbcb24b16730d85b42d881ff8f1adfc528109bf8b58e10ccf1c
+----------------------------------------
+Lỗi khi lưu thanhtoan: Cannot add or update a child row: a foreign key constraint fails (`restaurant`.`thanhtoan`, CONSTRAINT `thanhtoan_ibfk_1` FOREIGN KEY (`madatban`) REFERENCES `datban` (`madatban`) ON DELETE CASCADE)
+2025-05-16 16:33:06 - Payment Success - idDH: 30 - Amount: 265000 - Transaction No: 14961627
+2025-05-16 16:43:05 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 17500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14961649
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 27
+    [vnp_PayDate] => 20250516214328
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14961649
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 27_1747406539
+    [vnp_SecureHash] => 7b55d8bcba5bc7104fcc2d8bb2515b24a33020ec0c68c3248e1d3950dfa5c8f63de050b3346adf44e2b297b54c63c64d8be42da6b2050d02776a53db29c40518
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=17500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14961649&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+27&vnp_PayDate=20250516214328&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14961649&vnp_TransactionStatus=00&vnp_TxnRef=27_1747406539&vnp_SecureHash=7b55d8bcba5bc7104fcc2d8bb2515b24a33020ec0c68c3248e1d3950dfa5c8f63de050b3346adf44e2b297b54c63c64d8be42da6b2050d02776a53db29c40518
+----------------------------------------
+Lỗi khi lưu thanhtoan: Cannot add or update a child row: a foreign key constraint fails (`restaurant`.`thanhtoan`, CONSTRAINT `thanhtoan_ibfk_1` FOREIGN KEY (`madatban`) REFERENCES `datban` (`madatban`) ON DELETE CASCADE)
+2025-05-16 16:43:05 - Payment Success - idDH: 27 - Amount: 175000 - Transaction No: 14961649
+2025-05-16 16:49:47 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 19000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14961662
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 31
+    [vnp_PayDate] => 20250516215008
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14961662
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 31_1747406946
+    [vnp_SecureHash] => 86516badadb88aa97f851cfa0191c4a622cb7ebc86bc9b24efb7442e7913a85f77104225b22923ed1626e631a13d17c48fadc2eb226e4323d18023ff7f6c796e
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=19000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14961662&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+31&vnp_PayDate=20250516215008&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14961662&vnp_TransactionStatus=00&vnp_TxnRef=31_1747406946&vnp_SecureHash=86516badadb88aa97f851cfa0191c4a622cb7ebc86bc9b24efb7442e7913a85f77104225b22923ed1626e631a13d17c48fadc2eb226e4323d18023ff7f6c796e
+----------------------------------------
+Lỗi khi lưu thanhtoan: Cannot add or update a child row: a foreign key constraint fails (`restaurant`.`thanhtoan`, CONSTRAINT `thanhtoan_ibfk_1` FOREIGN KEY (`madatban`) REFERENCES `datban` (`madatban`) ON DELETE CASCADE)
+2025-05-16 16:49:47 - Payment Success - idDH: 31 - Amount: 190000 - Transaction No: 14961662
+2025-05-16 16:54:46 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 26000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14961678
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 32
+    [vnp_PayDate] => 20250516215509
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14961678
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 32_1747407249
+    [vnp_SecureHash] => ef88b7186dc5e7eceeb0f2378048930caf5b67576ae4d7b1749881566c9684326317b5b7b481bad4761ae5feffd4bd635477a7088c94238f45f4c26e5ec9fa26
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=26000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14961678&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+32&vnp_PayDate=20250516215509&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14961678&vnp_TransactionStatus=00&vnp_TxnRef=32_1747407249&vnp_SecureHash=ef88b7186dc5e7eceeb0f2378048930caf5b67576ae4d7b1749881566c9684326317b5b7b481bad4761ae5feffd4bd635477a7088c94238f45f4c26e5ec9fa26
+----------------------------------------
+Lỗi khi lưu thanhtoan: Cannot add or update a child row: a foreign key constraint fails (`restaurant`.`thanhtoan`, CONSTRAINT `thanhtoan_ibfk_1` FOREIGN KEY (`madatban`) REFERENCES `datban` (`madatban`) ON DELETE CASCADE)
+2025-05-16 16:54:46 - Payment Success - idDH: 32 - Amount: 260000 - Transaction No: 14961678
+2025-05-17 07:13:31 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 21000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14962305
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 34
+    [vnp_PayDate] => 20250517121354
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14962305
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 34_1747458759
+    [vnp_SecureHash] => 2e63d584ed74e26793c777e6c46aea1de0bfb0c767e50eede43dc3fabe859bab0fa8acd00a22c64f8d58c2620def1afa74d9bf01e653fa85100bfd8a731338b8
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=21000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14962305&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+34&vnp_PayDate=20250517121354&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14962305&vnp_TransactionStatus=00&vnp_TxnRef=34_1747458759&vnp_SecureHash=2e63d584ed74e26793c777e6c46aea1de0bfb0c767e50eede43dc3fabe859bab0fa8acd00a22c64f8d58c2620def1afa74d9bf01e653fa85100bfd8a731338b8
+----------------------------------------
+2025-05-17 07:13:31 - Payment Success - idDH: 34 - Amount: 210000 - Transaction No: 14962305
+2025-05-17 07:15:36 - Request from: ::1
+GET: Array
+(
+    [page] => themDH
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=themDH
+----------------------------------------
+2025-05-17 07:29:31 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 19000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14962317
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 33
+    [vnp_PayDate] => 20250517122954
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14962317
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 33_1747459732
+    [vnp_SecureHash] => 066dac0916f7d5d6aca11220982f83358803d9477f5cf6deed5efa44dd6026cac0e83ee80506d55c6917a6b5097e730636e05422ff3b2d8b25a46b16a3ee5747
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=19000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14962317&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+33&vnp_PayDate=20250517122954&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14962317&vnp_TransactionStatus=00&vnp_TxnRef=33_1747459732&vnp_SecureHash=066dac0916f7d5d6aca11220982f83358803d9477f5cf6deed5efa44dd6026cac0e83ee80506d55c6917a6b5097e730636e05422ff3b2d8b25a46b16a3ee5747
+----------------------------------------
+2025-05-17 07:29:31 - Payment Success - idDH: 33 - Amount: 190000 - Transaction No: 14962317
+2025-05-17 08:51:43 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-18 08:46:19 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-18 08:46:23 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-18 08:46:29 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-18 08:46:42 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-18 08:46:50 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-18 09:24:41 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-18 10:55:03 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-19 10:23:32 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-20 10:37:37 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-20 10:45:08 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-21 08:19:15 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-21 09:34:37 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-21 10:46:11 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-22 06:31:01 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-22 06:34:35 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-22 06:55:26 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 63000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972563
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 42
+    [vnp_PayDate] => 20250522115551
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972563
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 42_1747889665
+    [vnp_SecureHash] => 132c06b8d403d87b0025e0c0703b1c193abe59bf383ad3c35394af67bef973658e130fd8241e55e87432957f33e43b76f035e645e320b25dc6a161dc913c81ca
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=63000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972563&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+42&vnp_PayDate=20250522115551&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972563&vnp_TransactionStatus=00&vnp_TxnRef=42_1747889665&vnp_SecureHash=132c06b8d403d87b0025e0c0703b1c193abe59bf383ad3c35394af67bef973658e130fd8241e55e87432957f33e43b76f035e645e320b25dc6a161dc913c81ca
+----------------------------------------
+2025-05-22 06:55:26 - Payment Success - idDH: 42 - Amount: 630000 - Transaction No: 14972563
+2025-05-22 07:03:58 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 17000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972580
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 44
+    [vnp_PayDate] => 20250522120424
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972580
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 44_1747890162
+    [vnp_SecureHash] => 6b060769aba2c95c895b097d3f135c7d629f71ea53ca09e57b6a42602e4003ef90541e28c1644d907255fb4b363d472bc3c85c317a9c7bb9bc6a9bc2dc580939
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=17000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972580&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+44&vnp_PayDate=20250522120424&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972580&vnp_TransactionStatus=00&vnp_TxnRef=44_1747890162&vnp_SecureHash=6b060769aba2c95c895b097d3f135c7d629f71ea53ca09e57b6a42602e4003ef90541e28c1644d907255fb4b363d472bc3c85c317a9c7bb9bc6a9bc2dc580939
+----------------------------------------
+2025-05-22 07:03:58 - Payment Success - idDH: 44 - Amount: 170000 - Transaction No: 14972580
+2025-05-22 07:05:47 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 25500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972585
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 45
+    [vnp_PayDate] => 20250522120613
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972585
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 45_1747890295
+    [vnp_SecureHash] => dba86c0f9a9c89bd4a4ccccd4657733d620d154032650c1f635a33d6c559a7de63eb5a03827cd1a199f304fd64df6347b19eac76b06ab44a6aab74038baf6480
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=25500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972585&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+45&vnp_PayDate=20250522120613&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972585&vnp_TransactionStatus=00&vnp_TxnRef=45_1747890295&vnp_SecureHash=dba86c0f9a9c89bd4a4ccccd4657733d620d154032650c1f635a33d6c559a7de63eb5a03827cd1a199f304fd64df6347b19eac76b06ab44a6aab74038baf6480
+----------------------------------------
+2025-05-22 07:05:47 - Payment Success - idDH: 45 - Amount: 255000 - Transaction No: 14972585
+2025-05-22 07:36:35 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 105000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972627
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 49
+    [vnp_PayDate] => 20250522123701
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972627
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 49_1747892147
+    [vnp_SecureHash] => d2b0fb3359eb342d1503b463677bde441c067a4a6159c80795d8b7f37cd90a39e788c8634fad9b294f4c4620af4d58ac9c229ba7aef4dcaa4f19ae44fae7eac4
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=105000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972627&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+49&vnp_PayDate=20250522123701&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972627&vnp_TransactionStatus=00&vnp_TxnRef=49_1747892147&vnp_SecureHash=d2b0fb3359eb342d1503b463677bde441c067a4a6159c80795d8b7f37cd90a39e788c8634fad9b294f4c4620af4d58ac9c229ba7aef4dcaa4f19ae44fae7eac4
+----------------------------------------
+2025-05-22 07:37:02 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 105000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972627
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 49
+    [vnp_PayDate] => 20250522123701
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972627
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 49_1747892147
+    [vnp_SecureHash] => d2b0fb3359eb342d1503b463677bde441c067a4a6159c80795d8b7f37cd90a39e788c8634fad9b294f4c4620af4d58ac9c229ba7aef4dcaa4f19ae44fae7eac4
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=105000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972627&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+49&vnp_PayDate=20250522123701&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972627&vnp_TransactionStatus=00&vnp_TxnRef=49_1747892147&vnp_SecureHash=d2b0fb3359eb342d1503b463677bde441c067a4a6159c80795d8b7f37cd90a39e788c8634fad9b294f4c4620af4d58ac9c229ba7aef4dcaa4f19ae44fae7eac4
+----------------------------------------
+2025-05-22 07:37:02 - Payment Success - idDH: 49 - Amount: 1050000 - Transaction No: 14972627
+2025-05-22 07:43:18 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 45500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972632
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 50
+    [vnp_PayDate] => 20250522124345
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972632
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 50_1747892562
+    [vnp_SecureHash] => 48845c5a203072b2ed522e4c776c08fd91c8633ce7719ba01e884f46668948756d6d8fa3008932fcc4824438762585c97f53303c4ac258985d2b484399222ea9
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=45500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972632&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+50&vnp_PayDate=20250522124345&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972632&vnp_TransactionStatus=00&vnp_TxnRef=50_1747892562&vnp_SecureHash=48845c5a203072b2ed522e4c776c08fd91c8633ce7719ba01e884f46668948756d6d8fa3008932fcc4824438762585c97f53303c4ac258985d2b484399222ea9
+----------------------------------------
+2025-05-22 07:51:15 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 45500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972644
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 50
+    [vnp_PayDate] => 20250522125141
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972644
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 50_1747893040
+    [vnp_SecureHash] => 4e9b5d47491f3580a9270db3a10b93393c288ff61e907ae76aae9b278f21d3ce297fb02bbf6813234bdcd34ce4ba0ddd83e8bb8c1f58a9c97a4bca89db208894
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=45500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972644&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+50&vnp_PayDate=20250522125141&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972644&vnp_TransactionStatus=00&vnp_TxnRef=50_1747893040&vnp_SecureHash=4e9b5d47491f3580a9270db3a10b93393c288ff61e907ae76aae9b278f21d3ce297fb02bbf6813234bdcd34ce4ba0ddd83e8bb8c1f58a9c97a4bca89db208894
+----------------------------------------
+2025-05-22 07:54:38 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 45500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972652
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 50
+    [vnp_PayDate] => 20250522125504
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972652
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 50_1747893223
+    [vnp_SecureHash] => 19840e9178a9389b8da7fe1d649cbf2f5fefdd4c3aeb74029e7117264bb94b2075f87cd3346f2f4891326e1bec64d68fad7de7d95a838e6ceb8a7099ac1c84f3
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=45500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972652&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+50&vnp_PayDate=20250522125504&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972652&vnp_TransactionStatus=00&vnp_TxnRef=50_1747893223&vnp_SecureHash=19840e9178a9389b8da7fe1d649cbf2f5fefdd4c3aeb74029e7117264bb94b2075f87cd3346f2f4891326e1bec64d68fad7de7d95a838e6ceb8a7099ac1c84f3
+----------------------------------------
+2025-05-22 07:56:00 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 17000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972655
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 51
+    [vnp_PayDate] => 20250522125627
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972655
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 51_1747893320
+    [vnp_SecureHash] => 7f74792c42187a11fe77305372287523b40bfc7b2c23233925d64aaf5b5815d993afa4090521675fdc6f06e44626dc71be4a87a3eaf172a721806f29b2d13ece
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=17000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972655&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+51&vnp_PayDate=20250522125627&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972655&vnp_TransactionStatus=00&vnp_TxnRef=51_1747893320&vnp_SecureHash=7f74792c42187a11fe77305372287523b40bfc7b2c23233925d64aaf5b5815d993afa4090521675fdc6f06e44626dc71be4a87a3eaf172a721806f29b2d13ece
+----------------------------------------
+2025-05-22 07:59:16 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 45500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972661
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 50
+    [vnp_PayDate] => 20250522125942
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972661
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 50_1747893486
+    [vnp_SecureHash] => 5599cab70fe9d9c3dcefe3f4b59a73d2ed58783e80a4c773f9dd446656b1de8bcd2cab10f1d9b2b3cd2e38f873c970385503593dbe19081b7fdb3fa9ef460657
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=45500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972661&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+50&vnp_PayDate=20250522125942&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972661&vnp_TransactionStatus=00&vnp_TxnRef=50_1747893486&vnp_SecureHash=5599cab70fe9d9c3dcefe3f4b59a73d2ed58783e80a4c773f9dd446656b1de8bcd2cab10f1d9b2b3cd2e38f873c970385503593dbe19081b7fdb3fa9ef460657
+----------------------------------------
+2025-05-22 08:05:13 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 25500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972669
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 52
+    [vnp_PayDate] => 20250522130540
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972669
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 52_1747893826
+    [vnp_SecureHash] => 84edd547eae3496760475d2803c15ebb5a652976a327a455cbbf71047f582263c5f9a24f69104aa87ad0d0de9462758a1e7b7f838a33161d12fcf3e79822cbac
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=25500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972669&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+52&vnp_PayDate=20250522130540&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972669&vnp_TransactionStatus=00&vnp_TxnRef=52_1747893826&vnp_SecureHash=84edd547eae3496760475d2803c15ebb5a652976a327a455cbbf71047f582263c5f9a24f69104aa87ad0d0de9462758a1e7b7f838a33161d12fcf3e79822cbac
+----------------------------------------
+2025-05-22 08:05:16 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 52
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=52&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-22 08:07:25 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 17000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972672
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 53
+    [vnp_PayDate] => 20250522130752
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972672
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 53_1747894000
+    [vnp_SecureHash] => 6cdacb75ad5bcd9e4aee9e7e49685212dce09b6eeb142ad2f3d685c9b378c90c8be19336a668a1a0e8dc6399c25c301ad283c4a367baa3db2c3a3facf4e534be
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=17000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972672&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+53&vnp_PayDate=20250522130752&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972672&vnp_TransactionStatus=00&vnp_TxnRef=53_1747894000&vnp_SecureHash=6cdacb75ad5bcd9e4aee9e7e49685212dce09b6eeb142ad2f3d685c9b378c90c8be19336a668a1a0e8dc6399c25c301ad283c4a367baa3db2c3a3facf4e534be
+----------------------------------------
+2025-05-22 08:07:29 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 53
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=53&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-22 08:10:17 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 30000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972679
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 54
+    [vnp_PayDate] => 20250522131042
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972679
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 54_1747894173
+    [vnp_SecureHash] => 3e1be198f32382e080e22d72be6a3b813761225d515c9dbbdebb3024d4431bef617faf4f2648b56872aa3b8b3ea4f13f0654dc9d3ea00036a350884c0bf75d55
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=30000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972679&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+54&vnp_PayDate=20250522131042&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972679&vnp_TransactionStatus=00&vnp_TxnRef=54_1747894173&vnp_SecureHash=3e1be198f32382e080e22d72be6a3b813761225d515c9dbbdebb3024d4431bef617faf4f2648b56872aa3b8b3ea4f13f0654dc9d3ea00036a350884c0bf75d55
+----------------------------------------
+2025-05-22 08:10:22 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 54
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=54&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-22 08:40:59 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-22 08:44:40 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 117000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972745
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 55
+    [vnp_PayDate] => 20250522134506
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972745
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 55_1747896223
+    [vnp_SecureHash] => 5b8ee0c111bbe20dbbd0810c7b04767c73e1b9fff51cf3a0909c9b71d16c01e1a18256954fa19f870cb98393407af617b519ad130859fd30de5d5faa9fff1cfd
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=117000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972745&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+55&vnp_PayDate=20250522134506&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972745&vnp_TransactionStatus=00&vnp_TxnRef=55_1747896223&vnp_SecureHash=5b8ee0c111bbe20dbbd0810c7b04767c73e1b9fff51cf3a0909c9b71d16c01e1a18256954fa19f870cb98393407af617b519ad130859fd30de5d5faa9fff1cfd
+----------------------------------------
+Processing VNPay payment for order #55, amount: 1170000, transaction: 14972745
+2025-05-22 08:44:47 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 55
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=55&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-22 08:55:46 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 38000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972773
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 57
+    [vnp_PayDate] => 20250522135613
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972773
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 57_1747896910
+    [vnp_SecureHash] => 7a5d63ec66faf3aac874a95a1c877e59cc42da904a88f57b697d8dde65a7f2aec39284477f56b25cbf2765080d1ffd2c85178d84eae82fa6e6738c12efbc4bf0
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=38000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972773&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+57&vnp_PayDate=20250522135613&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972773&vnp_TransactionStatus=00&vnp_TxnRef=57_1747896910&vnp_SecureHash=7a5d63ec66faf3aac874a95a1c877e59cc42da904a88f57b697d8dde65a7f2aec39284477f56b25cbf2765080d1ffd2c85178d84eae82fa6e6738c12efbc4bf0
+----------------------------------------
+Processing VNPay payment for order #57, amount: 380000, transaction: 14972773
+2025-05-22 08:55:53 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 57
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=57&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-22 09:13:16 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 25500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972843
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 58
+    [vnp_PayDate] => 20250522141343
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972843
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 58_1747897935
+    [vnp_SecureHash] => b06d468ba99b61e137fe295f4b2bf59b2db433a46e716b951d7da1edc8224ce90f49729b7ece95b4a875316366fe64e2079439713e919018ef30b5530245dd90
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=25500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972843&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+58&vnp_PayDate=20250522141343&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972843&vnp_TransactionStatus=00&vnp_TxnRef=58_1747897935&vnp_SecureHash=b06d468ba99b61e137fe295f4b2bf59b2db433a46e716b951d7da1edc8224ce90f49729b7ece95b4a875316366fe64e2079439713e919018ef30b5530245dd90
+----------------------------------------
+Processing VNPay payment for order #58, amount: 255000, transaction: 14972843
+2025-05-22 09:13:23 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 58
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=58&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-22 09:20:35 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 35000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14972873
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 60
+    [vnp_PayDate] => 20250522142059
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14972873
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 60_1747898401
+    [vnp_SecureHash] => 4ed67f5ce933683387be12c61463f1a577f808dc39a1bfe92efec89fbb947ce6309e6d07cd9717cdeb22a77445b1a89ebb9e90a9cfe4f112c8ba8ecc44e08d77
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=35000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14972873&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+60&vnp_PayDate=20250522142059&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14972873&vnp_TransactionStatus=00&vnp_TxnRef=60_1747898401&vnp_SecureHash=4ed67f5ce933683387be12c61463f1a577f808dc39a1bfe92efec89fbb947ce6309e6d07cd9717cdeb22a77445b1a89ebb9e90a9cfe4f112c8ba8ecc44e08d77
+----------------------------------------
+Processing VNPay payment for order #60, amount: 350000, transaction: 14972873
+Creating invoice for order #60 with customer ID: 6
+Created invoice #52
+2025-05-22 09:20:39 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 60
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=60&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-22 18:32:36 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 18000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14974064
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 61
+    [vnp_PayDate] => 20250522233301
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14974064
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 61_1747931508
+    [vnp_SecureHash] => 9de5a1f0eb89b8c9bf62a237dc0a0af56c0348bb0aa3503dea7fe998e1e364b154d8728b0eed62d36c4ce12e52189462b22aaae8bc5cc2c49ebd0e5fab70e523
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=18000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14974064&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+61&vnp_PayDate=20250522233301&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14974064&vnp_TransactionStatus=00&vnp_TxnRef=61_1747931508&vnp_SecureHash=9de5a1f0eb89b8c9bf62a237dc0a0af56c0348bb0aa3503dea7fe998e1e364b154d8728b0eed62d36c4ce12e52189462b22aaae8bc5cc2c49ebd0e5fab70e523
+----------------------------------------
+Processing VNPay payment for order #61, amount: 180000, transaction: 14974064
+Creating invoice for order #61 with customer ID: 6
+Created invoice #59
+2025-05-22 18:32:43 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 61
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=61&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-22 18:36:03 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 24500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14974070
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 62
+    [vnp_PayDate] => 20250522233630
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14974070
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 62_1747931729
+    [vnp_SecureHash] => ad2106cf9e947d8d8f7233bd06c9531b830db487a0e51ca6f500ed25cb02a8448ff907a55bcb91ab4f994fe85151ba0078f2c79aa611b2efb8bec96fab3129d8
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=24500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14974070&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+62&vnp_PayDate=20250522233630&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14974070&vnp_TransactionStatus=00&vnp_TxnRef=62_1747931729&vnp_SecureHash=ad2106cf9e947d8d8f7233bd06c9531b830db487a0e51ca6f500ed25cb02a8448ff907a55bcb91ab4f994fe85151ba0078f2c79aa611b2efb8bec96fab3129d8
+----------------------------------------
+Processing VNPay payment for order #62, amount: 245000, transaction: 14974070
+Creating invoice for order #62 with customer ID: 6
+Created invoice #60
+2025-05-22 18:36:08 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 62
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=62&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-22 18:38:01 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 25500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14974074
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 65
+    [vnp_PayDate] => 20250522233828
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14974074
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 65_1747931825
+    [vnp_SecureHash] => 37781a4a7685eb3ac6fce92aaafe5eadc5098338c4a16536532fa3479a86f68947e2e2d32208ee12b7fc60a84bda558b19901abb58604d866ff958526a02cee2
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=25500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14974074&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+65&vnp_PayDate=20250522233828&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14974074&vnp_TransactionStatus=00&vnp_TxnRef=65_1747931825&vnp_SecureHash=37781a4a7685eb3ac6fce92aaafe5eadc5098338c4a16536532fa3479a86f68947e2e2d32208ee12b7fc60a84bda558b19901abb58604d866ff958526a02cee2
+----------------------------------------
+Processing VNPay payment for order #65, amount: 255000, transaction: 14974074
+Creating invoice for order #65 with customer ID: 6
+Created invoice #61
+2025-05-22 18:38:08 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 65
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=65&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-22 18:47:05 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 24500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14974088
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 67
+    [vnp_PayDate] => 20250522234731
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14974088
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 67_1747932376
+    [vnp_SecureHash] => 8cbfa8a22a0700b8c42797028cea0b738bff78ec772702282d6878252ab124ec3382e894de21e3f4cfb316efb8b7378f2c9159dca25539b2c8ddfc022547eb59
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=24500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14974088&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+67&vnp_PayDate=20250522234731&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14974088&vnp_TransactionStatus=00&vnp_TxnRef=67_1747932376&vnp_SecureHash=8cbfa8a22a0700b8c42797028cea0b738bff78ec772702282d6878252ab124ec3382e894de21e3f4cfb316efb8b7378f2c9159dca25539b2c8ddfc022547eb59
+----------------------------------------
+Processing VNPay payment for order #67, amount: 245000, transaction: 14974088
+Creating invoice for order #67 with customer ID: 20
+Created invoice #63
+2025-05-22 18:47:11 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 67
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=67&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-24 06:53:45 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 25500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14976567
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 68
+    [vnp_PayDate] => 20250524115412
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14976567
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 68_1748062373
+    [vnp_SecureHash] => 2e2b2a12716bf54e04434f0b9464bdcb59530ce41612876b35dfef3196aa8bdefaadf7649c6759087d6fa493405503b5488d3faafa23538b3a5c6312d741247d
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=25500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14976567&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+68&vnp_PayDate=20250524115412&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14976567&vnp_TransactionStatus=00&vnp_TxnRef=68_1748062373&vnp_SecureHash=2e2b2a12716bf54e04434f0b9464bdcb59530ce41612876b35dfef3196aa8bdefaadf7649c6759087d6fa493405503b5488d3faafa23538b3a5c6312d741247d
+----------------------------------------
+Processing VNPay payment for order #68, amount: 255000, transaction: 14976567
+Creating invoice for order #68 with customer ID: 20
+Created invoice #64
+2025-05-24 06:53:51 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 68
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=68&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-27 03:36:24 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-27 05:20:37 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 25500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14981501
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 69
+    [vnp_PayDate] => 20250527102053
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14981501
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 69_1748315893
+    [vnp_SecureHash] => 1bd628a2e33c57928f503a27d7972f40a4d357ffa6a4a1efe5edc7af6db1666b704b0652de1a4e4e28efb4df5c42c0cf73c31bcfe5e5a9d10c610036f4bddecc
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=25500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14981501&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+69&vnp_PayDate=20250527102053&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14981501&vnp_TransactionStatus=00&vnp_TxnRef=69_1748315893&vnp_SecureHash=1bd628a2e33c57928f503a27d7972f40a4d357ffa6a4a1efe5edc7af6db1666b704b0652de1a4e4e28efb4df5c42c0cf73c31bcfe5e5a9d10c610036f4bddecc
+----------------------------------------
+Processing VNPay payment for order #69, amount: 255000, transaction: 14981501
+Creating invoice for order #69 with customer ID: 6
+Created invoice #65
+2025-05-27 05:21:29 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 69
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=69&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-27 09:25:10 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 3500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14982177
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 72
+    [vnp_PayDate] => 20250527142539
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14982177
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 72_1748330641
+    [vnp_SecureHash] => 2fefff53419433230aff11c93bdd5cd938e49c71ee80441322ac1d43516f172f9db57d2b85b403d380d1482abcf60060b68481dc000626ce7f58ced0c49a8b0e
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=3500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14982177&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+72&vnp_PayDate=20250527142539&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14982177&vnp_TransactionStatus=00&vnp_TxnRef=72_1748330641&vnp_SecureHash=2fefff53419433230aff11c93bdd5cd938e49c71ee80441322ac1d43516f172f9db57d2b85b403d380d1482abcf60060b68481dc000626ce7f58ced0c49a8b0e
+----------------------------------------
+Processing VNPay payment for order #72, amount: 35000, transaction: 14982177
+Creating invoice for order #72 with customer ID: 6
+Created invoice #67
+2025-05-27 09:25:19 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 72
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=72&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-27 09:47:19 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
+2025-05-27 10:33:31 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 18000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14982497
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 73
+    [vnp_PayDate] => 20250527153400
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14982497
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 73_1748334765
+    [vnp_SecureHash] => e29ccae852911296aba5c8ad9e9f3949fd02c086d1dfb4477b7c42193c89741aa27a04fb36ceef10867b126275f8f553d41bfd5fc8f746ae6f2fba77c881d857
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=18000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14982497&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+73&vnp_PayDate=20250527153400&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14982497&vnp_TransactionStatus=00&vnp_TxnRef=73_1748334765&vnp_SecureHash=e29ccae852911296aba5c8ad9e9f3949fd02c086d1dfb4477b7c42193c89741aa27a04fb36ceef10867b126275f8f553d41bfd5fc8f746ae6f2fba77c881d857
+----------------------------------------
+Processing VNPay payment for order #73, amount: 180000, transaction: 14982497
+Creating invoice for order #73 with customer ID: 6
+Created invoice #69
+2025-05-27 10:33:40 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 73
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=73&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-27 10:47:28 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 25500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14982565
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 74
+    [vnp_PayDate] => 20250527154754
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14982565
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 74_1748335595
+    [vnp_SecureHash] => 3534a0967b92517a7de34371efde5430751b84629aa1a83cf905295b3e4171db8c9fa722daaafff807babaca83a12bf6eb083a08d42691bebe6e848a5e1b8b95
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=25500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14982565&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+74&vnp_PayDate=20250527154754&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14982565&vnp_TransactionStatus=00&vnp_TxnRef=74_1748335595&vnp_SecureHash=3534a0967b92517a7de34371efde5430751b84629aa1a83cf905295b3e4171db8c9fa722daaafff807babaca83a12bf6eb083a08d42691bebe6e848a5e1b8b95
+----------------------------------------
+Processing VNPay payment for order #74, amount: 255000, transaction: 14982565
+Creating invoice for order #74 with customer ID: 6
+Created invoice #70
+2025-05-27 10:47:35 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 74
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=74&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-27 10:49:42 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 25500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14982573
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 75
+    [vnp_PayDate] => 20250527155010
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14982573
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 75_1748335745
+    [vnp_SecureHash] => 02baddfbc69a85869cd50260205a9da453c5415fdbcdc468da2d2397113ab88228e390ba5dbe5edd7245152da4c8536f2e1742089328f032d136ccd50fe85ac6
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=25500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14982573&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+75&vnp_PayDate=20250527155010&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14982573&vnp_TransactionStatus=00&vnp_TxnRef=75_1748335745&vnp_SecureHash=02baddfbc69a85869cd50260205a9da453c5415fdbcdc468da2d2397113ab88228e390ba5dbe5edd7245152da4c8536f2e1742089328f032d136ccd50fe85ac6
+----------------------------------------
+Processing VNPay payment for order #75, amount: 255000, transaction: 14982573
+Creating invoice for order #75 with customer ID: 6
+Created invoice #71
+2025-05-27 10:49:49 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 75
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=75&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-27 10:54:28 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 48000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14982591
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 76
+    [vnp_PayDate] => 20250527155457
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14982591
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 76_1748336027
+    [vnp_SecureHash] => 1b171e101214a03ea2865759f1de9803a8b8ece6fb2b0e53eaef95a4cade4a62b0a0c095d0017e7f734a9395174995c09d26bfd9c772b52c0d0709380136bd73
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=48000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14982591&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+76&vnp_PayDate=20250527155457&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14982591&vnp_TransactionStatus=00&vnp_TxnRef=76_1748336027&vnp_SecureHash=1b171e101214a03ea2865759f1de9803a8b8ece6fb2b0e53eaef95a4cade4a62b0a0c095d0017e7f734a9395174995c09d26bfd9c772b52c0d0709380136bd73
+----------------------------------------
+Processing VNPay payment for order #76, amount: 480000, transaction: 14982591
+Creating invoice for order #76 with customer ID: 6
+Created invoice #72
+2025-05-27 10:54:32 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 76
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=76&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-27 11:03:21 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 50000000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14982636
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 77
+    [vnp_PayDate] => 20250527160350
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14982636
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 77_1748336561
+    [vnp_SecureHash] => 88b9db2bf481a16ed1e81c4b1b8c60903ffe193f03b8e8bf7c961e8a3293e6dbbade0c24ddf8aacff1221d13fd0ef2dc43ffdd4e718e7e7c24abdfff9d1dc4d7
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=50000000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14982636&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+77&vnp_PayDate=20250527160350&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14982636&vnp_TransactionStatus=00&vnp_TxnRef=77_1748336561&vnp_SecureHash=88b9db2bf481a16ed1e81c4b1b8c60903ffe193f03b8e8bf7c961e8a3293e6dbbade0c24ddf8aacff1221d13fd0ef2dc43ffdd4e718e7e7c24abdfff9d1dc4d7
+----------------------------------------
+Processing VNPay payment for order #77, amount: 500000, transaction: 14982636
+Creating invoice for order #77 with customer ID: 6
+Created invoice #73
+2025-05-27 11:03:25 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 77
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=77&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-27 11:18:16 - Request from: ::1
+GET: Array
+(
+    [vnp_Amount] => 84500000
+    [vnp_BankCode] => NCB
+    [vnp_BankTranNo] => VNP14982698
+    [vnp_CardType] => ATM
+    [vnp_OrderInfo] => Thanh toan don hang 78
+    [vnp_PayDate] => 20250527161845
+    [vnp_ResponseCode] => 00
+    [vnp_TmnCode] => A7RWSAH8
+    [vnp_TransactionNo] => 14982698
+    [vnp_TransactionStatus] => 00
+    [vnp_TxnRef] => 78_1748337455
+    [vnp_SecureHash] => 43d42eabf840f0206d3447571560dcc735ee6edefd4c2ba0a448ebd4eedb20da0b3bd00fb7e3e8dffb9c5df5fbc28401a8132ff2f1c287ffdf5ec1c3867437f5
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?vnp_Amount=84500000&vnp_BankCode=NCB&vnp_BankTranNo=VNP14982698&vnp_CardType=ATM&vnp_OrderInfo=Thanh+toan+don+hang+78&vnp_PayDate=20250527161845&vnp_ResponseCode=00&vnp_TmnCode=A7RWSAH8&vnp_TransactionNo=14982698&vnp_TransactionStatus=00&vnp_TxnRef=78_1748337455&vnp_SecureHash=43d42eabf840f0206d3447571560dcc735ee6edefd4c2ba0a448ebd4eedb20da0b3bd00fb7e3e8dffb9c5df5fbc28401a8132ff2f1c287ffdf5ec1c3867437f5
+----------------------------------------
+Processing VNPay payment for order #78, amount: 845000, transaction: 14982698
+Creating invoice for order #78 with customer ID: 6
+Created invoice #74
+2025-05-27 11:18:20 - Request from: ::1
+GET: Array
+(
+    [page] => xemDH
+    [idDH] => 78
+    [trangthai] => Đã thanh toán
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/index.php?page=xemDH&idDH=78&trangthai=%C4%90%C3%A3%20thanh%20to%C3%A1n
+----------------------------------------
+2025-05-27 18:12:32 - Request from: ::1
+GET: Array
+(
+)
+
+POST: Array
+(
+)
+
+REQUEST_URI: /CNM/
+----------------------------------------
